@@ -1,0 +1,1001 @@
+OpenDate,FirstName,LastName,Gender,PreviousCancellations,YearsAsCustomer,CustomerApproved,AppointmentDate,AppointmentSlot,EngineerKey,TaskCategory,Maintenance,FixDescription,CustomerAge,PastVisits,Result
+9/14/16,Aurelia,Hursey,Female,0,3-5 Years,FALSE,9/25/16,,1234490,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,1,0
+9/17/16,Sid,Fye,,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234493,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,1
+9/13/16,Kathrin,Lizotte,Female,0,Over 5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234494,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/17/16,Jacinta,Ealey,Female,0,0-1 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234491,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,0,0
+9/12/16,Sal,Lupi,Male,0,1-3 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234495,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Ying,Ariola,,0,0-1 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234496,Break Fix,Premise maintenance with customer,Router no led,70 to 80,4,1
+9/17/16,Thurman,Sibert,Male,0,0-1 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234488,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Charmain,Findlay,Female,0,0-1 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234491,Break Fix,Premise maintenance with customer,Router no power,50 to 60,2,1
+9/14/16,Mignon,Cecena,Female,1,0-1 Years,TRUE,9/30/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,3,0
+9/14/16,Carlita,Epling,Female,0,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234476,Break Fix,,TV box no power,10 to 20,1,1
+9/12/16,Rufus,Shalash,Male,0,3-5 Years,FALSE,10/1/16,,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Mark,Pruden,Male,2,1-3 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,1
+9/14/16,Willard,Broughton,Male,3+,0-1 Years,TRUE,9/29/16,04:00 PM - 06:00 PM,1234478,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/15/16,Winona,Blust,Female,1,0-1 Years,FALSE,9/21/16,,1234487,Disconnect,Premise maintenance with customer,N/A,30 to 40,2,0
+9/15/16,Jake,Lagace,Male,0,0-1 Years,TRUE,9/30/16,,1234496,Business SLA,Premise maintenance with customer,N/A,70 to 80,3,0
+9/13/16,Terry,Cortese,Male,2,0-1 Years,TRUE,9/23/16,10:00 AM - 12:00 PM,1234487,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Golden,Rhem,Female,0,3-5 Years,FALSE,9/21/16,04:00 PM - 06:00 PM,1234487,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/18/16,Natasha,Hubbs,,0,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,60 to 70,3,0
+9/18/16,Larry,Dengler,Male,0,1-3 Years,TRUE,9/24/16,,1234482,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/17/16,Lynn,Hollingworth,Male,1,3-5 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234478,New Install,Premise maintenance with customer,N/A,30 to 40,1,1
+9/15/16,Raymon,Ruggles,,1,0-1 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234479,Break Fix,Premise maintenance with customer,Phone no power,10 to 20,2,1
+9/16/16,Alfonzo,Ruyle,Male,0,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234488,Break Fix,Premise maintenance with customer,TV box broken,60 to 70,0,0
+9/13/16,Winfred,Buhl,Male,0,0-1 Years,TRUE,9/21/16,04:00 PM - 06:00 PM,1234493,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/17/16,Gigi,Mcgowin,Female,0,Over 5 Years,FALSE,9/21/16,02:00 PM - 04:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/18/16,Stacy,Deveau,,1,1-3 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234485,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,4,1
+9/13/16,Jeanette,Yankey,Female,0,0-1 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box no time,60 to 70,0,0
+9/18/16,Linda,Delzell,Female,0,0-1 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234496,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/16/16,Monte,No,Male,3+,0-1 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234498,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,1
+9/14/16,Gilda,Brueggeman,Female,0,1-3 Years,TRUE,9/28/16,12:00 PM - 02:00 PM,1234488,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,0,0
+9/17/16,Wanita,Simonsen,Female,0,1-3 Years,FALSE,9/17/16,04:00 PM - 06:00 PM,1234477,Break Fix,Premise maintenance with customer,TV box no power,60 to 70,1,0
+9/13/16,Tamie,Cruickshank,Female,0,1-3 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234497,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Tiffanie,Huls,Female,0,3-5 Years,FALSE,9/26/16,08:00 AM - 10:00 AM,1234494,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Denny,Slowik,Male,0,1-3 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234478,Break Fix,Premise maintenance with customer,TV box frozen,60 to 70,4,1
+9/13/16,Dylan,Josey,Male,1,0-1 Years,FALSE,10/5/16,12:00 PM - 02:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no power,60 to 70,4,0
+9/16/16,Mohammed,Meserve,Male,1,Over 5 Years,FALSE,9/16/16,04:00 PM - 06:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box no time,50 to 60,2,0
+9/17/16,Mitch,Jenkin,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234483,Break Fix,Premise maintenance with customer,TV box no led,60 to 70,3,1
+9/17/16,Lavonna,Henault,Female,0,1-3 Years,FALSE,9/23/16,08:00 AM - 10:00 AM,1234486,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,0,0
+9/14/16,Fernando,Sweatman,Male,0,1-3 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234494,Break Fix,Premise maintenance with customer,TV box no led,50 to 60,4,0
+9/12/16,Rocky,Widener,Male,0,1-3 Years,FALSE,9/16/16,,1234486,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Camie,Mccrary,Female,0,0-1 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234482,Break Fix,Premise maintenance with customer,Router no led,30 to 40,0,0
+9/16/16,Alexandra,Vargo,,0,1-3 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box no power,20 to 30,0,0
+9/13/16,Derrick,Urman,Male,1,3-5 Years,TRUE,9/28/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no power,40 to 50,4,1
+9/17/16,Kandis,Lucius,,2,0-1 Years,FALSE,9/16/16,12:00 PM - 02:00 PM,1234476,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,1,0
+9/12/16,Lien,Brymer,Female,2,3-5 Years,TRUE,10/1/16,,1234484,Business SLA,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Aide,Warburton,,0,0-1 Years,FALSE,9/15/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,Router no led,60 to 70,2,0
+9/14/16,Glen,Hazard,Male,0,1-3 Years,FALSE,9/21/16,12:00 PM - 02:00 PM,1234481,New Install,Premise maintenance with customer,N/A,50 to 60,3,0
+9/15/16,Roy,Uhler,Male,0,0-1 Years,FALSE,9/30/16,,1234498,Disconnect,Premise maintenance with customer,N/A,40 to 50,2,0
+9/17/16,Emil,Boor,Male,0,0-1 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234489,New Install,Premise maintenance with customer,N/A,40 to 50,3,0
+9/15/16,Erin,Kang,,0,0-1 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,20 to 30,0,1
+9/16/16,Thea,Millener,Female,0,1-3 Years,TRUE,9/27/16,08:00 AM - 10:00 AM,1234499,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Phoebe,Boydston,Female,0,0-1 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234477,New Install,Premise maintenance with customer,N/A,30 to 40,2,1
+9/12/16,Lawerence,Petroff,Male,0,0-1 Years,FALSE,9/21/16,12:00 PM - 02:00 PM,1234495,Break Fix,Premise maintenance with customer,TV box no remote,40 to 50,1,0
+9/14/16,Kirstie,Rosa,Female,1,3-5 Years,FALSE,9/14/16,02:00 PM - 04:00 PM,1234492,Planned Maintenance,,N/A,40 to 50,0,0
+9/12/16,Ayako,Korn,Female,1,1-3 Years,FALSE,9/18/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/13/16,Clelia,Cahoon,Female,0,3-5 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234489,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/16/16,Royal,Weymouth,Male,0,3-5 Years,FALSE,9/19/16,04:00 PM - 06:00 PM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/18/16,Ashleigh,Bridgeman,,0,0-1 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234489,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,4,0
+9/12/16,Suzann,Hosack,Female,0,0-1 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234498,Break Fix,Premise maintenance with customer,Phone no power,40 to 50,2,0
+9/18/16,Arcelia,Verret,Female,0,0-1 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234489,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/13/16,Bert,Newberg,Male,2,3-5 Years,FALSE,9/18/16,,1234499,Disconnect,Premise maintenance with customer,N/A,40 to 50,1,0
+9/14/16,Raphael,Heger,Male,0,0-1 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234491,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,1
+9/13/16,Ira,Brasher,Male,0,0-1 Years,TRUE,9/19/16,08:00 AM - 10:00 AM,1234475,Disconnect,Premise maintenance with customer,N/A,30 to 40,2,0
+9/17/16,Leida,Towsend,Female,1,0-1 Years,FALSE,9/30/16,,1234478,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,3,1
+9/16/16,Marylin,Weissinger,Female,0,1-3 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234496,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/15/16,Dewey,Coppin,,1,0-1 Years,FALSE,9/19/16,10:00 AM - 12:00 PM,1234497,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/15/16,Coy,Emigh,Male,0,Over 5 Years,FALSE,9/20/16,,1234475,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/14/16,Sam,Kollar,Male,0,1-3 Years,FALSE,9/29/16,,1234480,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,3,0
+9/18/16,Ismael,Foust,Male,0,0-1 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234491,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/18/16,Nicol,Coronel,,0,1-3 Years,FALSE,9/15/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,TV box no power,70 to 80,1,0
+9/18/16,Armando,Feller,,1,1-3 Years,FALSE,10/1/16,,1234499,Break Fix,Premise maintenance with customer,TV box no remote,30 to 40,3,1
+9/16/16,Jackqueline,Samuelson,Female,0,0-1 Years,FALSE,9/22/16,,1234495,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,0,0
+9/15/16,Carson,Corns,,0,1-3 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234476,Break Fix,Premise maintenance with customer,Phone broken,20 to 30,3,0
+9/14/16,Carolee,Tavernier,Female,0,3-5 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234483,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,1,0
+9/12/16,Ferdinand,Defenbaugh,Male,0,3-5 Years,FALSE,9/21/16,,1234493,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/13/16,Reyes,Manly,Male,0,1-3 Years,TRUE,9/17/16,08:00 AM - 10:00 AM,1234480,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,0
+9/12/16,Deloras,Derosa,Female,1,1-3 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234479,Disconnect,Premise maintenance with customer,N/A,50 to 60,3,0
+9/16/16,Rubin,Varn,Male,0,3-5 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234485,Break Fix,Premise maintenance with customer,Router no power,60 to 70,2,0
+9/17/16,Sonny,Pickert,Male,0,3-5 Years,FALSE,9/26/16,04:00 PM - 06:00 PM,1234479,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Nicholas,Wacaster,Male,0,0-1 Years,TRUE,9/30/16,04:00 PM - 06:00 PM,1234483,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Lyman,Rogerson,Male,0,3-5 Years,FALSE,10/4/16,,1234487,Break Fix,Premise maintenance with customer,Router no led,70 to 80,0,0
+9/17/16,Vivien,Hesser,Female,0,3-5 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234488,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Deidre,Cutlip,Female,1,1-3 Years,FALSE,9/19/16,12:00 PM - 02:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/16/16,Tomiko,Botkin,Female,0,1-3 Years,FALSE,9/14/16,02:00 PM - 04:00 PM,1234482,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/16/16,Henrietta,Belt,Female,0,3-5 Years,FALSE,10/3/16,,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,3,0
+9/12/16,Audria,Edmundson,Female,0,0-1 Years,TRUE,9/25/16,08:00 AM - 10:00 AM,1234492,Break Fix,Premise maintenance with customer,Router no wire,50 to 60,1,0
+9/14/16,Chelsie,Majewski,Female,0,Over 5 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234478,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,1,0
+9/13/16,Dorathy,Wetherell,Female,0,1-3 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234487,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/12/16,Deloise,Kelsch,Female,1,1-3 Years,FALSE,9/16/16,02:00 PM - 04:00 PM,1234485,Disconnect,Premise maintenance with customer,N/A,30 to 40,1,0
+9/18/16,Vicente,Allyn,Male,0,Over 5 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234477,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Bret,Stafford,Male,0,1-3 Years,TRUE,9/27/16,,1234480,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/18/16,Dorothea,Rhode,Female,0,1-3 Years,TRUE,9/21/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,Router no power,40 to 50,0,0
+9/13/16,Margert,Gerhardt,Female,0,1-3 Years,FALSE,9/18/16,12:00 PM - 02:00 PM,1234498,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Salina,Speers,Female,0,0-1 Years,TRUE,10/3/16,10:00 AM - 12:00 PM,1234486,Disconnect,Premise maintenance with customer,N/A,50 to 60,4,0
+9/18/16,Anibal,Sowers,Male,0,3-5 Years,TRUE,9/29/16,02:00 PM - 04:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,0,1
+9/17/16,Dominick,Alexis,Male,0,0-1 Years,FALSE,9/26/16,,1234481,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/14/16,Lionel,Smythe,Male,1,0-1 Years,TRUE,9/19/16,12:00 PM - 02:00 PM,1234488,Break Fix,Premise maintenance with customer,TV box broken,50 to 60,1,0
+9/16/16,Reba,Hane,Female,0,Over 5 Years,FALSE,9/16/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,TV box no power,70 to 80,2,0
+9/18/16,Lindy,Straube,Female,1,0-1 Years,FALSE,10/3/16,,1234478,New Install,Premise maintenance with customer,N/A,30 to 40,1,1
+9/16/16,Chantell,Roller,Female,1,Over 5 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234475,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,3,0
+9/18/16,Gracie,Delk,,0,3-5 Years,TRUE,9/19/16,02:00 PM - 04:00 PM,1234496,Business SLA,Premise maintenance with customer,N/A,30 to 40,2,0
+9/12/16,Sherly,Councill,Female,1,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234499,Break Fix,Premise maintenance with customer,Router no power,70 to 80,0,1
+9/17/16,Leia,Dandrea,Female,1,0-1 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234478,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,1,1
+9/13/16,Abbey,Man,Female,0,1-3 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234495,Disconnect,,N/A,50 to 60,4,0
+9/15/16,Barry,Novoa,Male,0,Over 5 Years,FALSE,9/24/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/13/16,Vanda,Pearl,Female,0,1-3 Years,TRUE,9/20/16,,1234489,Disconnect,Premise maintenance with customer,N/A,30 to 40,1,0
+9/16/16,Katharyn,Abele,Female,0,0-1 Years,FALSE,9/18/16,04:00 PM - 06:00 PM,1234477,New Install,,N/A,50 to 60,0,0
+9/17/16,Toby,Mole,Male,1,3-5 Years,FALSE,9/21/16,02:00 PM - 04:00 PM,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,3,0
+9/17/16,Ezra,Burry,Male,1,0-1 Years,TRUE,9/23/16,12:00 PM - 02:00 PM,1234494,Break Fix,Premise maintenance with customer,TV box no remote,30 to 40,2,0
+9/14/16,Leslie,Sitsler,Male,1,0-1 Years,FALSE,9/28/16,,1234475,Break Fix,Premise maintenance with customer,Router no power,70 to 80,2,0
+9/12/16,Wilhelmina,Kinnaird,Female,0,0-1 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234478,New Install,Premise maintenance with customer,N/A,50 to 60,0,1
+9/15/16,Delila,Chapple,Female,1,0-1 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234481,Break Fix,Premise maintenance with customer,Router no wire,60 to 70,3,1
+9/13/16,Jamison,Drennan,Male,0,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,TV box no led,30 to 40,2,0
+9/18/16,Jerrold,Quinby,Male,1,0-1 Years,FALSE,10/6/16,02:00 PM - 04:00 PM,1234483,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,3,1
+9/12/16,Nicole,Maycock,Female,0,1-3 Years,FALSE,10/6/16,,1234483,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Pandora,Rolle,Female,0,1-3 Years,FALSE,9/23/16,12:00 PM - 02:00 PM,1234491,Break Fix,Premise maintenance with customer,Router no led,70 to 80,2,1
+9/17/16,Owen,Litten,,1,0-1 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,0,1
+9/15/16,Joaquin,Tee,Male,0,3-5 Years,FALSE,9/21/16,08:00 AM - 10:00 AM,1234493,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/18/16,Kareen,Ballweg,Female,0,1-3 Years,TRUE,9/26/16,08:00 AM - 10:00 AM,1234476,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/15/16,Candyce,Rega,Female,1,1-3 Years,FALSE,10/5/16,12:00 PM - 02:00 PM,1234496,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Pierre,Achorn,Male,1,0-1 Years,TRUE,9/16/16,04:00 PM - 06:00 PM,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/14/16,Roxy,Highfill,,0,0-1 Years,FALSE,9/23/16,10:00 AM - 12:00 PM,1234485,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Sana,Tackett,,0,Over 5 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234485,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,0,0
+9/13/16,Carman,Mebane,Female,0,3-5 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234487,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/16/16,Apryl,Hane,Female,0,0-1 Years,TRUE,9/25/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,Router no led,40 to 50,1,0
+9/18/16,Izola,Paille,Female,0,Over 5 Years,FALSE,10/4/16,,1234495,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/17/16,Sigrid,Miers,Female,0,0-1 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234499,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,3,0
+9/12/16,Ellie,Biles,Female,1,3-5 Years,TRUE,9/23/16,10:00 AM - 12:00 PM,1234478,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,0,1
+9/17/16,Eunice,Jansen,Female,0,Over 5 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234492,Break Fix,Premise maintenance with customer,Router no power,50 to 60,0,1
+9/17/16,Breanna,Sine,Female,0,3-5 Years,TRUE,10/2/16,10:00 AM - 12:00 PM,1234490,Break Fix,Premise maintenance with customer,TV box frozen,50 to 60,4,0
+9/12/16,Reita,Pompei,Female,2,0-1 Years,TRUE,9/30/16,,1234497,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,2,0
+9/12/16,Kirstin,Millis,Female,0,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,1,1
+9/15/16,Agripina,Rundquist,Female,0,0-1 Years,FALSE,9/19/16,10:00 AM - 12:00 PM,1234491,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,0,0
+9/14/16,Ja,Beauregard,Female,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234496,New Install,Premise maintenance with customer,N/A,50 to 60,3,0
+9/16/16,Vanda,Demos,Female,0,0-1 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234499,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/16/16,Ken,Setser,Male,0,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234477,Disconnect,Premise maintenance with customer,N/A,70 to 80,4,1
+9/14/16,Tierra,Sevy,Female,1,0-1 Years,FALSE,9/28/16,,1234476,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/17/16,Jacinto,Kincheloe,Male,0,0-1 Years,FALSE,9/14/16,10:00 AM - 12:00 PM,1234481,Business SLA,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,America,Haskett,Female,1,0-1 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234495,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/14/16,Edyth,Spagnuolo,,1,1-3 Years,FALSE,9/18/16,08:00 AM - 10:00 AM,1234493,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,1,0
+9/14/16,Lindsay,Chain,Male,1,0-1 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no wire,10 to 20,1,1
+9/13/16,Mckinley,Tolentino,Male,0,3-5 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234480,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/14/16,Reinaldo,Atha,Male,1,Over 5 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,1,1
+9/17/16,Vada,Feld,,0,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234492,New Install,Premise maintenance with customer,N/A,20 to 30,2,1
+9/12/16,Isis,Burlingame,Female,0,3-5 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234490,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/16/16,Izetta,Worster,Female,2,1-3 Years,TRUE,10/5/16,04:00 PM - 06:00 PM,1234476,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Donte,Scheu,Male,0,1-3 Years,TRUE,10/1/16,04:00 PM - 06:00 PM,1234489,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/16/16,Francisca,Schow,,0,0-1 Years,FALSE,9/25/16,,1234491,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/18/16,Wanda,Mcpherson,Female,0,1-3 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234499,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Tyson,Mcnamara,Male,0,0-1 Years,TRUE,9/19/16,12:00 PM - 02:00 PM,1234481,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/16/16,Mason,Balicki,Male,0,0-1 Years,FALSE,9/20/16,10:00 AM - 12:00 PM,1234493,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,2,0
+9/17/16,Shaunda,Schrick,,3+,1-3 Years,FALSE,10/4/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,60 to 70,4,0
+9/16/16,Andera,Renolds,Female,0,Over 5 Years,FALSE,9/28/16,02:00 PM - 04:00 PM,1234479,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Emmitt,Herren,Male,1,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,Phone no power,10 to 20,4,1
+9/13/16,Laurie,Stump,Female,1,0-1 Years,TRUE,9/21/16,02:00 PM - 04:00 PM,1234475,Break Fix,Premise maintenance with customer,Router no led,70 to 80,1,0
+9/12/16,Jorge,Fillman,Male,0,Over 5 Years,TRUE,9/20/16,12:00 PM - 02:00 PM,1234481,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/17/16,Saul,Neubauer,Male,2,Over 5 Years,FALSE,9/21/16,08:00 AM - 10:00 AM,1234496,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,0
+9/14/16,Hiram,Olivera,Male,0,1-3 Years,FALSE,9/17/16,02:00 PM - 04:00 PM,1234493,Break Fix,Premise maintenance with customer,Phone no power,30 to 40,1,0
+9/12/16,Jessie,Spoon,Male,0,0-1 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234481,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Jared,Schlanger,Male,0,1-3 Years,FALSE,9/19/16,04:00 PM - 06:00 PM,1234485,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/15/16,Lesli,Phenix,Female,0,1-3 Years,FALSE,10/3/16,10:00 AM - 12:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Herbert,Updike,Male,0,1-3 Years,TRUE,9/29/16,12:00 PM - 02:00 PM,1234493,Disconnect,Premise maintenance with customer,N/A,20 to 30,2,1
+9/16/16,Randall,Criddle,Male,0,3-5 Years,FALSE,9/18/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/18/16,Harley,Drost,Male,1,0-1 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234498,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/14/16,Aurora,Luis,Female,0,1-3 Years,FALSE,9/26/16,,1234475,Break Fix,Premise maintenance with customer,Router no power,50 to 60,2,0
+9/18/16,Luther,Ector,Male,0,Over 5 Years,TRUE,9/22/16,,1234481,Break Fix,Premise maintenance with customer,Router no led,70 to 80,1,0
+9/15/16,Argentina,Mariano,Female,1,3-5 Years,TRUE,10/2/16,02:00 PM - 04:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/13/16,Elroy,Zhao,Male,0,1-3 Years,FALSE,9/20/16,10:00 AM - 12:00 PM,1234475,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/14/16,Ha,Guyette,Female,0,0-1 Years,TRUE,9/30/16,10:00 AM - 12:00 PM,1234475,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Theodore,Gatling,Male,0,1-3 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234480,Break Fix,Premise maintenance with customer,Router no wire,70 to 80,2,1
+9/16/16,Karan,Belli,Female,1,1-3 Years,FALSE,9/21/16,04:00 PM - 06:00 PM,1234485,Break Fix,Premise maintenance with customer,TV box broken,60 to 70,1,0
+9/15/16,Maida,Warthen,Female,1,1-3 Years,FALSE,10/3/16,10:00 AM - 12:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no power,40 to 50,1,1
+9/16/16,Kareem,Vonruden,,0,1-3 Years,TRUE,9/29/16,12:00 PM - 02:00 PM,1234477,Break Fix,Premise maintenance with customer,Router no power,70 to 80,4,0
+9/14/16,Jadwiga,Oliphant,Female,0,Over 5 Years,TRUE,10/1/16,08:00 AM - 10:00 AM,1234482,Business SLA,Premise maintenance with customer,N/A,70 to 80,3,1
+9/18/16,Gil,Kujawa,Male,2,3-5 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234492,Break Fix,Premise maintenance with customer,Router no led,50 to 60,4,1
+9/14/16,Steven,Wyble,Male,0,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234495,Break Fix,Premise maintenance with customer,Router no wire,20 to 30,3,1
+9/18/16,Exie,Rupert,Female,0,3-5 Years,TRUE,9/17/16,10:00 AM - 12:00 PM,1234497,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/16/16,Andres,Wareham,Male,1,3-5 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234499,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/16/16,Hayden,Mcfarland,Male,1,Over 5 Years,TRUE,10/3/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,TV box smoke,30 to 40,0,1
+9/13/16,Malcolm,Tseng,Male,0,1-3 Years,TRUE,9/21/16,04:00 PM - 06:00 PM,1234489,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,0
+9/17/16,Norman,Karl,Male,0,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234490,Break Fix,Premise maintenance with customer,TV box no remote,20 to 30,4,1
+9/13/16,Brett,Fregoe,Male,0,1-3 Years,TRUE,9/18/16,,1234482,New Install,Premise maintenance with customer,N/A,20 to 30,1,0
+9/18/16,Georgiann,Knotts,Female,0,1-3 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234482,New Install,Premise maintenance with customer,N/A,20 to 30,3,1
+9/13/16,Francis,Bellomy,Male,0,3-5 Years,FALSE,9/23/16,08:00 AM - 10:00 AM,1234488,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/17/16,Joseph,Sandlin,Male,0,3-5 Years,FALSE,10/1/16,,1234494,Disconnect,Premise maintenance with customer,N/A,30 to 40,3,0
+9/13/16,Echo,Swoope,Female,0,1-3 Years,TRUE,10/2/16,,1234488,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,3,0
+9/12/16,Ronny,Hanlon,Male,1,0-1 Years,TRUE,9/28/16,12:00 PM - 02:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,0,0
+9/16/16,Suanne,Matte,,0,1-3 Years,FALSE,9/17/16,12:00 PM - 02:00 PM,1234496,Break Fix,Premise maintenance with customer,Router no led,30 to 40,0,0
+9/14/16,Tereasa,Linquist,Female,0,1-3 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234488,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,1,0
+9/15/16,Florentino,Byer,Male,0,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,1
+9/17/16,Wilfred,Worster,Male,0,1-3 Years,FALSE,9/28/16,,1234492,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,4,1
+9/15/16,Griselda,Mccalister,Female,0,0-1 Years,FALSE,10/5/16,,1234478,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,1
+9/12/16,Kathrin,Figeroa,Female,0,0-1 Years,TRUE,9/29/16,,1234483,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/18/16,Chelsea,Womack,Female,0,1-3 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234477,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Lamont,Penley,Male,1,1-3 Years,TRUE,9/20/16,02:00 PM - 04:00 PM,1234480,Business SLA,Premise maintenance with customer,N/A,60 to 70,2,0
+9/12/16,Crystle,Tsao,Female,0,3-5 Years,TRUE,10/1/16,10:00 AM - 12:00 PM,1234492,New Install,Premise maintenance with customer,N/A,10 to 20,3,0
+9/13/16,Corey,Nathanson,,0,1-3 Years,TRUE,9/22/16,02:00 PM - 04:00 PM,1234479,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/12/16,Adrienne,Westlund,Female,3+,3-5 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234488,New Install,Premise maintenance with customer,N/A,30 to 40,0,1
+9/15/16,Georgiana,Mcgaha,Female,0,Over 5 Years,FALSE,9/14/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Corinna,Natividad,Female,0,0-1 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234492,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,1
+9/14/16,Katharyn,Brodeur,Female,0,1-3 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234490,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,1,1
+9/17/16,Francesca,Coplan,Female,0,3-5 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234494,Disconnect,Premise maintenance with customer,N/A,40 to 50,1,1
+9/13/16,Verena,Fulghum,,0,3-5 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234481,New Install,Premise maintenance with customer,N/A,20 to 30,2,0
+9/15/16,Claud,Suydam,Male,0,0-1 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234493,Break Fix,Premise maintenance with customer,TV box frozen,40 to 50,2,1
+9/13/16,Obdulia,Gazaway,Female,0,1-3 Years,FALSE,9/15/16,,1234488,Disconnect,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Gavin,Demas,Male,0,3-5 Years,FALSE,9/23/16,02:00 PM - 04:00 PM,1234484,New Install,Premise maintenance with customer,N/A,40 to 50,0,1
+9/18/16,Deloris,Zupan,Female,0,1-3 Years,FALSE,10/5/16,,1234490,Break Fix,Premise maintenance with customer,Phone broken,30 to 40,0,0
+9/14/16,Jeffrey,Adcox,Male,0,1-3 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,Router no led,20 to 30,0,1
+9/14/16,Maile,Goines,,1,3-5 Years,TRUE,10/2/16,12:00 PM - 02:00 PM,1234499,Break Fix,Premise maintenance with customer,TV box no remote,30 to 40,1,0
+9/12/16,Rolf,Roser,Male,1,0-1 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234492,Break Fix,Premise maintenance with customer,Router no led,70 to 80,2,1
+9/13/16,Eliza,Elwood,Female,0,Over 5 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/13/16,Granville,Braun,Male,1,1-3 Years,FALSE,9/15/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Chastity,Mair,Female,1,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234476,Disconnect,Premise maintenance with customer,N/A,40 to 50,3,1
+9/13/16,Adam,Axford,Male,0,1-3 Years,FALSE,10/1/16,,1234495,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,3,0
+9/12/16,Mia,Tillinghast,Female,1,0-1 Years,TRUE,10/6/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/15/16,Francina,Hammons,,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234480,New Install,Premise maintenance with customer,N/A,20 to 30,0,0
+9/12/16,Efren,Barner,Male,0,0-1 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234488,Break Fix,Premise maintenance with customer,Router no power,50 to 60,0,0
+9/13/16,Major,Holzwarth,Male,1,Over 5 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234498,New Install,Premise maintenance with customer,N/A,70 to 80,4,1
+9/18/16,Scottie,Harvard,Male,0,3-5 Years,TRUE,10/1/16,02:00 PM - 04:00 PM,1234485,New Install,Premise maintenance with customer,N/A,70 to 80,4,0
+9/18/16,Tianna,Knutson,Female,2,0-1 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234484,Break Fix,Premise maintenance with customer,TV box no time,20 to 30,3,1
+9/18/16,Danyelle,Haveman,Female,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234490,Break Fix,Premise maintenance with customer,Router no led,20 to 30,4,1
+9/15/16,Evelyne,Tindell,Female,1,1-3 Years,FALSE,9/22/16,,1234480,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Katheleen,Circle,Female,0,0-1 Years,FALSE,9/29/16,,1234499,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Andree,Gillett,Female,0,3-5 Years,TRUE,10/5/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,70 to 80,3,1
+9/17/16,Terry,Krahn,Male,1,1-3 Years,FALSE,10/3/16,,1234485,Break Fix,Premise maintenance with customer,TV box broken,40 to 50,4,0
+9/17/16,Mariette,Castellanos,,1,3-5 Years,TRUE,10/1/16,08:00 AM - 10:00 AM,1234491,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,1
+9/18/16,Annett,Hanby,Female,1,1-3 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234490,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,4,1
+9/16/16,Aurelio,Rameriz,Male,0,1-3 Years,TRUE,10/3/16,04:00 PM - 06:00 PM,1234478,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,1
+9/14/16,Murray,Laviolette,,0,Over 5 Years,TRUE,9/24/16,04:00 PM - 06:00 PM,1234498,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/17/16,Grant,Waddy,Male,0,3-5 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234485,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Aleida,Gibney,Female,1,1-3 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234494,Business SLA,Premise maintenance with customer,N/A,20 to 30,0,1
+9/16/16,Loni,Seidman,,0,0-1 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234475,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/18/16,Thaddeus,Osterhout,,0,3-5 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234480,Break Fix,Premise maintenance with customer,Router no led,20 to 30,3,0
+9/12/16,Corinne,Hensler,,1,0-1 Years,FALSE,9/20/16,04:00 PM - 06:00 PM,1234488,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Vita,Pett,,1,0-1 Years,FALSE,9/22/16,04:00 PM - 06:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no power,50 to 60,1,0
+9/12/16,Fairy,Voisin,Female,0,1-3 Years,TRUE,9/26/16,04:00 PM - 06:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no power,20 to 30,2,0
+9/14/16,Tobi,Thao,,0,0-1 Years,TRUE,9/29/16,08:00 AM - 10:00 AM,1234482,Break Fix,Premise maintenance with customer,Router no power,50 to 60,1,1
+9/16/16,Cira,Odegaard,Female,1,3-5 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box broken,60 to 70,0,0
+9/17/16,Terrence,Kato,Male,0,3-5 Years,TRUE,9/27/16,04:00 PM - 06:00 PM,1234479,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Al,Dipasquale,,0,Over 5 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234475,Break Fix,Premise maintenance with customer,Router no power,40 to 50,0,0
+9/17/16,Georgette,Hanscom,Female,2,1-3 Years,FALSE,9/18/16,08:00 AM - 10:00 AM,1234477,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/15/16,Corie,Hochmuth,Female,0,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,0,1
+9/12/16,Alva,Basso,Male,2,3-5 Years,FALSE,9/13/16,02:00 PM - 04:00 PM,1234488,Business SLA,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Bob,Schnabel,,3+,1-3 Years,TRUE,10/6/16,08:00 AM - 10:00 AM,1234480,Business SLA,Premise maintenance with customer,N/A,10 to 20,2,1
+9/12/16,Don,Huth,Male,1,1-3 Years,FALSE,9/26/16,,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Cordell,Sarkis,Male,0,1-3 Years,FALSE,9/19/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,2,0
+9/17/16,Loren,Gramlich,Male,0,0-1 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234477,New Install,Premise maintenance with customer,N/A,20 to 30,2,0
+9/14/16,Thurman,Muhammad,Male,0,3-5 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234497,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/12/16,Kendal,Pua,Female,0,0-1 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Talitha,Umfleet,,1,3-5 Years,FALSE,10/6/16,08:00 AM - 10:00 AM,1234475,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/12/16,Assunta,Lemke,Female,1,0-1 Years,TRUE,9/20/16,04:00 PM - 06:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/17/16,Madeline,Falkowski,,0,1-3 Years,TRUE,9/22/16,,1234489,Break Fix,Premise maintenance with customer,Router no led,30 to 40,2,0
+9/15/16,Savannah,Huffines,,0,0-1 Years,TRUE,9/17/16,,1234484,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/15/16,Nana,Coca,Female,0,3-5 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234481,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/12/16,Jamal,Fawcett,Male,0,0-1 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234492,Business SLA,Premise maintenance with customer,N/A,30 to 40,2,1
+9/13/16,Jack,Melody,Male,0,0-1 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,Router no power,10 to 20,0,0
+9/16/16,Lynnette,Boughner,Female,0,0-1 Years,TRUE,10/3/16,08:00 AM - 10:00 AM,1234493,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/16/16,Jere,Testerman,Male,0,3-5 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234498,Break Fix,Premise maintenance with customer,Router no led,70 to 80,0,1
+9/13/16,Jamar,Situ,Male,0,1-3 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234476,Break Fix,Premise maintenance with customer,Router no led,20 to 30,0,1
+9/15/16,Patricia,Burgard,Male,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234479,Business SLA,Premise maintenance with customer,N/A,70 to 80,1,0
+9/17/16,Millie,Luckie,Female,0,1-3 Years,FALSE,9/23/16,,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/16/16,Latoya,Stines,Female,1,1-3 Years,FALSE,9/17/16,,1234476,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Gavin,Brodsky,Male,0,1-3 Years,FALSE,9/30/16,,1234481,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,0
+9/16/16,Doreatha,Topps,Female,1,0-1 Years,TRUE,10/2/16,04:00 PM - 06:00 PM,1234477,New Install,Premise maintenance with customer,N/A,30 to 40,3,1
+9/14/16,Louvenia,Skiba,Female,2,1-3 Years,TRUE,9/25/16,,1234493,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,0
+9/18/16,Frederica,Spielman,,0,1-3 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234487,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/17/16,Morton,Louie,Male,1,0-1 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234479,New Install,Premise maintenance with customer,N/A,50 to 60,2,1
+9/15/16,Eura,Parada,Female,0,Over 5 Years,TRUE,9/29/16,04:00 PM - 06:00 PM,1234481,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Williams,Pellegren,Male,0,1-3 Years,TRUE,9/20/16,,1234483,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Raphael,Bartlett,Male,1,1-3 Years,TRUE,10/4/16,02:00 PM - 04:00 PM,1234486,Break Fix,Premise maintenance with customer,Router no led,50 to 60,1,1
+9/12/16,Alverta,Bourgault,,0,Over 5 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234482,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/12/16,Nathan,Stumpf,Male,0,1-3 Years,FALSE,9/23/16,02:00 PM - 04:00 PM,1234498,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/13/16,Scot,Mabrey,Male,0,1-3 Years,FALSE,9/28/16,,1234482,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/17/16,Curtis,Fulkerson,Male,0,3-5 Years,TRUE,9/29/16,10:00 AM - 12:00 PM,1234494,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Antony,Ocampo,Male,0,Over 5 Years,TRUE,9/24/16,04:00 PM - 06:00 PM,1234476,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Perry,Arellano,Male,0,1-3 Years,FALSE,9/25/16,,1234496,Business SLA,Premise maintenance with customer,N/A,30 to 40,2,0
+9/15/16,Nerissa,Steinfeldt,,0,1-3 Years,TRUE,10/2/16,08:00 AM - 10:00 AM,1234497,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/13/16,Jerrell,See,Male,0,0-1 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234485,Break Fix,Premise maintenance with customer,Router no wire,70 to 80,0,0
+9/18/16,Deon,Dinatale,Male,0,0-1 Years,FALSE,10/4/16,12:00 PM - 02:00 PM,1234495,Disconnect,Premise maintenance with customer,N/A,40 to 50,2,1
+9/14/16,Wilburn,Ottley,Male,0,Over 5 Years,TRUE,10/4/16,12:00 PM - 02:00 PM,1234499,Break Fix,Premise maintenance with customer,Router no power,40 to 50,4,0
+9/18/16,Noah,Whitcomb,Male,0,1-3 Years,TRUE,9/29/16,02:00 PM - 04:00 PM,1234478,Break Fix,Premise maintenance with customer,TV box frozen,50 to 60,0,1
+9/12/16,Savanna,Montz,Female,1,1-3 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234499,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Dina,Kisling,Female,0,1-3 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,3,1
+9/16/16,Un,Rothe,Female,1,0-1 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234486,Disconnect,Premise maintenance with customer,N/A,70 to 80,3,1
+9/13/16,Salvador,Lamay,Male,0,0-1 Years,FALSE,9/18/16,,1234477,Business SLA,Premise maintenance with customer,N/A,70 to 80,1,0
+9/14/16,Peg,Gupton,Female,0,Over 5 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234492,Break Fix,Premise maintenance with customer,Router no led,40 to 50,0,1
+9/15/16,Lael,Vara,Female,0,0-1 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234486,New Install,Premise maintenance with customer,N/A,30 to 40,4,0
+9/15/16,Emerson,Sigmon,Male,0,0-1 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234492,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,1
+9/12/16,Nichole,Mcclanahan,Female,0,1-3 Years,TRUE,10/3/16,12:00 PM - 02:00 PM,1234488,Business SLA,Premise maintenance with customer,N/A,50 to 60,1,0
+9/17/16,Tandy,Lisk,,1,1-3 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234482,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/14/16,Lakisha,Angevine,Female,0,0-1 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234488,New Install,Premise maintenance with customer,N/A,10 to 20,1,0
+9/18/16,Carmina,Fernando,,0,1-3 Years,TRUE,10/1/16,04:00 PM - 06:00 PM,1234485,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/16/16,Huey,Magby,Male,0,1-3 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234482,Break Fix,Premise maintenance with customer,Router no wire,40 to 50,1,0
+9/15/16,Hollis,Greenbaum,Male,0,Over 5 Years,FALSE,9/16/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,10 to 20,2,0
+9/14/16,Deloras,Stumbaugh,,0,3-5 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,4,0
+9/15/16,Ardelle,Lenton,Female,1,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234494,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/18/16,Will,Swisher,Male,1,3-5 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234491,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,0,1
+9/15/16,Phyliss,Greenawalt,Female,0,1-3 Years,FALSE,9/22/16,10:00 AM - 12:00 PM,1234476,Break Fix,Premise maintenance with customer,TV box smoke,40 to 50,1,0
+9/14/16,Bo,Dunklin,Male,1,3-5 Years,TRUE,9/16/16,08:00 AM - 10:00 AM,1234477,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/16/16,Chi,Renn,,0,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234478,Break Fix,Premise maintenance with customer,TV box smoke,40 to 50,0,1
+9/14/16,Marsha,Bou,Female,0,Over 5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234482,Business SLA,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Lashaunda,Brewington,Female,0,0-1 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234480,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,0
+9/12/16,Trey,Chill,Male,0,0-1 Years,TRUE,9/22/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,0,0
+9/14/16,Joseph,Roe,Male,0,1-3 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no power,40 to 50,0,0
+9/12/16,Sophie,Folden,Female,0,1-3 Years,FALSE,9/16/16,12:00 PM - 02:00 PM,1234475,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,2,0
+9/13/16,Matt,Bridgers,Male,0,0-1 Years,TRUE,9/23/16,12:00 PM - 02:00 PM,1234494,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,0,0
+9/15/16,Leland,Cato,Male,0,0-1 Years,TRUE,10/1/16,12:00 PM - 02:00 PM,1234495,Break Fix,Premise maintenance with customer,Router no power,20 to 30,1,1
+9/16/16,Jimmie,Balding,Male,0,0-1 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234494,Business SLA,Premise maintenance with customer,N/A,70 to 80,2,1
+9/13/16,Elmer,Dibenedetto,Male,0,1-3 Years,FALSE,9/22/16,10:00 AM - 12:00 PM,1234478,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/15/16,Micah,Pry,Male,2,Over 5 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234484,New Install,Premise maintenance with customer,N/A,50 to 60,4,0
+9/15/16,Mavis,Calaway,Female,0,1-3 Years,FALSE,9/24/16,10:00 AM - 12:00 PM,1234484,Break Fix,Premise maintenance with customer,TV box no time,50 to 60,1,0
+9/18/16,Jannie,Rebelo,Female,0,0-1 Years,FALSE,10/3/16,10:00 AM - 12:00 PM,1234483,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,0,0
+9/12/16,Reginia,Moorefield,,0,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234480,Disconnect,Premise maintenance with customer,N/A,40 to 50,1,0
+9/14/16,Tawanna,Pecinovsky,,0,0-1 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234490,Break Fix,Premise maintenance with customer,Phone broken,60 to 70,2,1
+9/15/16,Miquel,Varano,Male,0,3-5 Years,TRUE,9/28/16,12:00 PM - 02:00 PM,1234493,Break Fix,Premise maintenance with customer,TV box no led,70 to 80,0,0
+9/12/16,Samual,Brion,Male,0,0-1 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234481,Break Fix,Premise maintenance with customer,Router no led,70 to 80,0,0
+9/13/16,Marlene,Mullan,Female,1,0-1 Years,FALSE,9/25/16,04:00 PM - 06:00 PM,1234490,Disconnect,Premise maintenance with customer,N/A,60 to 70,4,1
+9/12/16,Luvenia,Donegan,Female,1,1-3 Years,FALSE,9/21/16,12:00 PM - 02:00 PM,1234476,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/14/16,Marilu,Veale,Female,0,0-1 Years,FALSE,9/22/16,,1234497,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,1,0
+9/12/16,Jere,Devoe,,0,0-1 Years,TRUE,9/30/16,02:00 PM - 04:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no power,30 to 40,0,0
+9/17/16,Felton,Oliphant,Male,0,0-1 Years,FALSE,9/16/16,08:00 AM - 10:00 AM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Irving,Fitzhugh,Male,0,0-1 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234481,New Install,Premise maintenance with customer,N/A,60 to 70,4,0
+9/17/16,Pamala,Hellmann,Female,0,1-3 Years,TRUE,9/22/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Natashia,Faivre,,0,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234479,Break Fix,Premise maintenance with customer,Router no led,30 to 40,2,0
+9/14/16,Ty,Strait,Male,1,3-5 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234497,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/14/16,Desirae,Baisden,Female,0,Over 5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234495,New Install,Premise maintenance with customer,N/A,30 to 40,3,0
+9/15/16,Regenia,Gilchrest,,0,3-5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234489,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/18/16,Elissa,Konkol,Female,0,1-3 Years,FALSE,9/27/16,,1234493,Break Fix,Premise maintenance with customer,TV box frozen,50 to 60,0,0
+9/17/16,Burt,Alex,Male,2,1-3 Years,TRUE,9/26/16,04:00 PM - 06:00 PM,1234485,Disconnect,Premise maintenance with customer,N/A,30 to 40,1,0
+9/12/16,Fredrick,Pendergrast,Male,1,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234494,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Aurelia,Christen,Female,0,0-1 Years,TRUE,9/18/16,04:00 PM - 06:00 PM,1234486,Planned Maintenance,Premise maintenance with customer,N/A,60 to 70,1,0
+9/18/16,Lamar,Funes,Male,1,3-5 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234475,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Imelda,Phipps,Female,0,3-5 Years,FALSE,10/4/16,12:00 PM - 02:00 PM,1234478,New Install,Premise maintenance with customer,N/A,50 to 60,2,1
+9/14/16,Roger,Allman,Male,0,1-3 Years,TRUE,10/1/16,12:00 PM - 02:00 PM,1234496,Disconnect,Premise maintenance with customer,N/A,60 to 70,1,0
+9/16/16,Melvina,Prevo,,0,3-5 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234489,Disconnect,Premise maintenance with customer,N/A,20 to 30,0,0
+9/12/16,Wilmer,Meidinger,Male,0,0-1 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234494,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/18/16,Lucie,Lafrance,Female,0,1-3 Years,TRUE,9/23/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/18/16,Dodie,Dong,Female,2,1-3 Years,TRUE,9/28/16,,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,William,Wille,Male,0,0-1 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/17/16,Leon,Demott,Male,0,1-3 Years,TRUE,9/24/16,12:00 PM - 02:00 PM,1234486,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,0,0
+9/15/16,Matthew,Devera,,0,3-5 Years,TRUE,9/23/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,0,0
+9/13/16,Floria,Eisenstein,Female,0,0-1 Years,TRUE,9/24/16,12:00 PM - 02:00 PM,1234478,Business SLA,Premise maintenance with customer,N/A,70 to 80,3,1
+9/16/16,Anibal,Sikorski,,0,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234480,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,2,0
+9/15/16,Rod,Board,Male,0,1-3 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234493,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/18/16,Ervin,Salazar,Male,1,0-1 Years,TRUE,10/2/16,08:00 AM - 10:00 AM,1234496,Break Fix,Premise maintenance with customer,Router no led,50 to 60,2,0
+9/14/16,Dominick,Reyes,Male,1,3-5 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234480,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,1
+9/17/16,Jonah,Bonanno,Male,0,0-1 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234477,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Daryl,Tingley,Male,0,1-3 Years,FALSE,9/22/16,04:00 PM - 06:00 PM,1234476,Disconnect,Premise maintenance with customer,N/A,70 to 80,2,0
+9/13/16,Normand,Kirwin,,0,1-3 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234488,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/15/16,Reinaldo,Madril,,0,0-1 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234487,New Install,Premise maintenance with customer,N/A,20 to 30,2,0
+9/16/16,Margarito,Novello,Male,0,3-5 Years,FALSE,9/22/16,,1234476,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/17/16,Leeanna,Mccuiston,Female,1,0-1 Years,FALSE,10/5/16,04:00 PM - 06:00 PM,1234490,Disconnect,Premise maintenance with customer,N/A,70 to 80,2,1
+9/17/16,Roy,Elswick,,0,1-3 Years,TRUE,9/28/16,08:00 AM - 10:00 AM,1234478,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,1
+9/16/16,Nathanael,Morton,,0,1-3 Years,TRUE,9/22/16,12:00 PM - 02:00 PM,1234477,Break Fix,Premise maintenance with customer,Phone broken,50 to 60,0,0
+9/18/16,Jasper,Munyon,Male,0,1-3 Years,FALSE,9/26/16,,1234483,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,2,0
+9/13/16,Marty,Surita,Male,0,3-5 Years,FALSE,9/25/16,02:00 PM - 04:00 PM,1234494,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/15/16,Michale,Flippo,Male,0,1-3 Years,TRUE,10/1/16,08:00 AM - 10:00 AM,1234496,Break Fix,Premise maintenance with customer,TV box frozen,30 to 40,1,0
+9/15/16,Cherry,Marburger,Female,0,3-5 Years,FALSE,9/21/16,02:00 PM - 04:00 PM,1234499,Break Fix,Premise maintenance with customer,Router no led,50 to 60,4,0
+9/17/16,Trenton,Liller,Male,0,0-1 Years,TRUE,9/28/16,12:00 PM - 02:00 PM,1234475,New Install,Premise maintenance with customer,N/A,20 to 30,1,0
+9/18/16,Cristine,Schauwecker,Female,0,0-1 Years,FALSE,9/24/16,,1234484,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Alpha,Mahoney,Female,0,0-1 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234493,Break Fix,Premise maintenance with customer,Router no led,30 to 40,0,0
+9/13/16,Samuel,Maloney,Male,0,1-3 Years,FALSE,9/28/16,,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,3,0
+9/14/16,Malcom,Munden,Male,0,0-1 Years,TRUE,9/25/16,,1234483,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/18/16,Clifford,Traynor,Male,0,3-5 Years,FALSE,10/5/16,,1234494,Break Fix,Premise maintenance with customer,Phone no power,40 to 50,2,0
+9/15/16,Lloyd,Carrales,Male,0,1-3 Years,FALSE,9/21/16,,1234477,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/18/16,Danica,Villagomez,Female,3+,1-3 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234485,New Install,Premise maintenance with customer,N/A,70 to 80,4,1
+9/15/16,Venice,Rodriguez,Female,0,0-1 Years,FALSE,9/20/16,,1234477,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/18/16,Zack,Dizon,Male,2,0-1 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234496,Break Fix,Premise maintenance with customer,Router no power,30 to 40,4,1
+9/18/16,Casey,Frankum,Male,0,Over 5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234492,New Install,Premise maintenance with customer,N/A,70 to 80,3,1
+9/17/16,Sybil,Snelson,,2,1-3 Years,FALSE,9/26/16,08:00 AM - 10:00 AM,1234483,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/14/16,Bruce,Ellingwood,Male,1,3-5 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234484,Break Fix,Premise maintenance with customer,Phone no power,40 to 50,0,0
+9/16/16,Lindsay,Vescio,Male,0,1-3 Years,TRUE,9/18/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,2,0
+9/18/16,Noe,Brugger,Male,0,Over 5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234495,Break Fix,Premise maintenance with customer,Router no led,60 to 70,3,0
+9/17/16,Cornelius,Lamoureaux,Male,0,Over 5 Years,FALSE,9/16/16,02:00 PM - 04:00 PM,1234478,New Install,,N/A,30 to 40,2,0
+9/15/16,Joe,Khouri,Male,1,0-1 Years,TRUE,9/16/16,08:00 AM - 10:00 AM,1234476,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Lina,Bachand,Female,0,1-3 Years,FALSE,9/23/16,10:00 AM - 12:00 PM,1234476,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/17/16,Kendrick,Rabe,Male,2,1-3 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234480,New Install,Premise maintenance with customer,N/A,70 to 80,0,1
+9/14/16,Gabriele,Schimpf,Female,0,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box no power,30 to 40,0,0
+9/16/16,Bella,Massman,Female,0,3-5 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,1,1
+9/12/16,Tyler,Ekberg,Male,2,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234489,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,1
+9/13/16,Robert,Galiano,Male,0,0-1 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234494,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,2,0
+9/14/16,Caitlin,Miele,Female,0,1-3 Years,FALSE,10/4/16,04:00 PM - 06:00 PM,1234479,New Install,Premise maintenance with customer,N/A,70 to 80,4,0
+9/18/16,Tyler,Haddock,Male,0,1-3 Years,FALSE,9/22/16,,1234495,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,0
+9/16/16,Jerold,Meany,,0,0-1 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234493,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/17/16,Modesto,Mcmakin,Male,0,Over 5 Years,FALSE,9/25/16,,1234475,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/15/16,Sheryll,Ota,Female,2,0-1 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234491,New Install,Premise maintenance with customer,N/A,40 to 50,0,1
+9/14/16,Xiomara,Casias,Female,0,1-3 Years,FALSE,9/19/16,12:00 PM - 02:00 PM,1234499,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,3,0
+9/14/16,Chadwick,Schlagel,Male,0,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234492,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,4,1
+9/15/16,Silvia,Timothy,Female,0,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234475,Disconnect,Premise maintenance with customer,N/A,40 to 50,2,0
+9/16/16,Darius,Eshelman,Male,0,0-1 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234497,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/15/16,Micah,Kilduff,Male,0,3-5 Years,FALSE,10/3/16,02:00 PM - 04:00 PM,1234488,Break Fix,Premise maintenance with customer,Router no power,50 to 60,4,0
+9/17/16,Kanesha,Cantwell,,0,3-5 Years,FALSE,9/16/16,02:00 PM - 04:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/13/16,Domenic,Chittum,Male,1,Over 5 Years,FALSE,10/3/16,10:00 AM - 12:00 PM,1234487,New Install,Premise maintenance with customer,N/A,50 to 60,4,0
+9/16/16,Monroe,Sampsel,Male,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Roma,Huard,,0,1-3 Years,FALSE,9/15/16,04:00 PM - 06:00 PM,1234489,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Cathey,Hafley,,2,0-1 Years,TRUE,9/21/16,10:00 AM - 12:00 PM,1234499,Break Fix,Premise maintenance with customer,Router no power,20 to 30,1,0
+9/12/16,Hiedi,Eskew,Female,1,0-1 Years,FALSE,10/1/16,,1234478,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,1
+9/12/16,Mabelle,Brazile,Female,0,1-3 Years,FALSE,9/25/16,02:00 PM - 04:00 PM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/17/16,Everett,Norville,Male,0,0-1 Years,FALSE,9/17/16,08:00 AM - 10:00 AM,1234485,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/14/16,Cedric,Caple,,0,1-3 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Chet,Rudasill,Male,0,Over 5 Years,FALSE,10/1/16,,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/18/16,Sylvester,Bergerson,Male,1,1-3 Years,FALSE,9/29/16,,1234485,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,3,1
+9/12/16,Gaston,Hahn,Male,0,Over 5 Years,FALSE,9/22/16,,1234476,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,1,0
+9/14/16,Faustino,Demming,Male,1,3-5 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,20 to 30,0,0
+9/15/16,Mohammad,Caso,Male,0,1-3 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box broken,50 to 60,4,0
+9/12/16,Eugenia,Chaves,Female,0,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234477,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,1
+9/16/16,Gwyneth,Guthridge,Female,1,1-3 Years,TRUE,9/29/16,02:00 PM - 04:00 PM,1234486,Break Fix,Premise maintenance with customer,Phone broken,60 to 70,3,0
+9/12/16,Vince,Deckman,Male,0,0-1 Years,FALSE,9/24/16,12:00 PM - 02:00 PM,1234483,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/14/16,Irvin,Canova,Male,0,1-3 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234492,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,0,1
+9/15/16,Margie,Livingston,,1,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234494,Break Fix,Premise maintenance with customer,TV box frozen,70 to 80,1,1
+9/17/16,Beau,Eriksen,Male,0,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/12/16,Jamie,Jerrell,Male,1,3-5 Years,TRUE,9/30/16,,1234484,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/13/16,Tamatha,Warriner,,0,3-5 Years,TRUE,9/24/16,02:00 PM - 04:00 PM,1234475,Break Fix,Premise maintenance with customer,Router no led,30 to 40,0,0
+9/13/16,Lawrence,Row,Male,0,3-5 Years,TRUE,9/30/16,02:00 PM - 04:00 PM,1234485,Break Fix,Premise maintenance with customer,TV box frozen,30 to 40,3,0
+9/18/16,Agnus,Obando,Female,0,3-5 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234480,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/13/16,Marylouise,Grasty,Female,0,0-1 Years,FALSE,9/17/16,10:00 AM - 12:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Darci,Eppinger,Female,0,0-1 Years,FALSE,9/30/16,,1234495,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/13/16,Flor,Schloss,Female,0,Over 5 Years,FALSE,9/22/16,,1234492,Break Fix,Premise maintenance with customer,Phone no power,40 to 50,0,0
+9/13/16,Tegan,Tenny,,0,1-3 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234481,Break Fix,Premise maintenance with customer,TV box smoke,40 to 50,4,0
+9/15/16,Ouida,Leibowitz,Female,0,1-3 Years,TRUE,10/3/16,,1234491,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/14/16,Ellis,Dufault,Male,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Jules,Fontes,,1,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234498,New Install,Premise maintenance with customer,N/A,70 to 80,3,1
+9/17/16,Eldon,Ratner,Male,1,3-5 Years,TRUE,10/3/16,,1234492,Break Fix,Premise maintenance with customer,Router no power,70 to 80,4,1
+9/17/16,Elliot,Lillibridge,Male,0,1-3 Years,TRUE,9/22/16,08:00 AM - 10:00 AM,1234480,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/17/16,Garnett,Overlock,Female,1,3-5 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234485,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Jaclyn,Durant,,0,3-5 Years,FALSE,9/26/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no led,30 to 40,0,0
+9/14/16,Lonnie,Hinojosa,Male,0,1-3 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234477,Break Fix,Premise maintenance with customer,TV box no power,60 to 70,2,1
+9/18/16,Arron,Flett,Male,0,0-1 Years,TRUE,9/18/16,04:00 PM - 06:00 PM,1234493,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/18/16,Colin,Klann,Male,1,Over 5 Years,FALSE,9/25/16,,1234494,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/17/16,Josephina,Cuenca,Female,0,0-1 Years,FALSE,10/4/16,12:00 PM - 02:00 PM,1234479,New Install,Premise maintenance with customer,N/A,30 to 40,2,1
+9/14/16,Lucinda,Bedell,Female,0,1-3 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234490,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,4,1
+9/17/16,Patty,Rossin,Female,1,0-1 Years,FALSE,9/29/16,,1234486,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,2,0
+9/13/16,Erich,Partington,Male,0,0-1 Years,FALSE,9/19/16,,1234481,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,3,0
+9/15/16,Katelynn,Archibald,Female,0,0-1 Years,TRUE,9/22/16,08:00 AM - 10:00 AM,1234477,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/18/16,Vickie,Armour,Female,0,1-3 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234483,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/15/16,Shanika,Koh,Female,0,0-1 Years,FALSE,9/22/16,04:00 PM - 06:00 PM,1234494,New Install,Premise maintenance with customer,N/A,10 to 20,2,0
+9/16/16,Jasmin,Obanion,Female,0,0-1 Years,TRUE,9/20/16,10:00 AM - 12:00 PM,1234495,Business SLA,Premise maintenance with customer,N/A,60 to 70,2,0
+9/15/16,Carolann,Eggleton,Female,2,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234488,Business SLA,Premise maintenance with customer,N/A,30 to 40,0,0
+9/15/16,Rozella,Wilford,Female,0,1-3 Years,FALSE,9/26/16,,1234490,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/12/16,Fidela,Wisener,,0,1-3 Years,TRUE,9/28/16,10:00 AM - 12:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/14/16,Lesley,Reys,Male,0,0-1 Years,TRUE,9/27/16,12:00 PM - 02:00 PM,1234478,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,1
+9/16/16,Titus,Atterberry,Male,0,3-5 Years,FALSE,9/21/16,,1234479,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,3,0
+9/14/16,Edwin,Mace,Male,0,Over 5 Years,TRUE,9/18/16,04:00 PM - 06:00 PM,1234494,Business SLA,Premise maintenance with customer,N/A,30 to 40,1,0
+9/13/16,Altagracia,Loaiza,,0,Over 5 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,Phone no power,60 to 70,1,0
+9/12/16,Homer,Zwiebel,Male,1,3-5 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234488,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,2,0
+9/16/16,Melvina,Clara,Female,0,1-3 Years,FALSE,10/2/16,,1234493,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,4,1
+9/18/16,Mack,Horstmann,Male,0,1-3 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no wire,60 to 70,2,1
+9/15/16,Tai,Sobotka,Female,0,Over 5 Years,FALSE,9/14/16,02:00 PM - 04:00 PM,1234480,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/18/16,Ara,Metoyer,Female,0,0-1 Years,TRUE,9/25/16,12:00 PM - 02:00 PM,1234475,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/13/16,Rupert,Arreguin,Male,0,1-3 Years,TRUE,9/29/16,04:00 PM - 06:00 PM,1234494,Disconnect,Premise maintenance with customer,N/A,60 to 70,4,0
+9/17/16,Alfonzo,Moulder,Male,0,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234485,Business SLA,Premise maintenance with customer,N/A,70 to 80,1,1
+9/18/16,Joline,Stutler,Female,1,1-3 Years,TRUE,10/2/16,04:00 PM - 06:00 PM,1234490,Disconnect,Premise maintenance with customer,N/A,30 to 40,4,1
+9/17/16,Drew,Sharon,Male,0,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234492,New Install,Premise maintenance with customer,N/A,50 to 60,2,1
+9/14/16,Corinna,Lamborn,Female,0,0-1 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234477,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/15/16,Larry,Nunemaker,Male,1,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box no led,30 to 40,4,1
+9/17/16,Briana,Eddington,Female,1,1-3 Years,TRUE,10/2/16,,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/12/16,Jina,Lillibridge,,1,1-3 Years,FALSE,9/15/16,04:00 PM - 06:00 PM,1234488,Break Fix,Premise maintenance with customer,Phone no power,30 to 40,2,0
+9/14/16,Annis,Desimone,Female,0,0-1 Years,FALSE,9/18/16,12:00 PM - 02:00 PM,1234491,Business SLA,Premise maintenance with customer,N/A,20 to 30,1,0
+9/18/16,Haywood,Rana,Male,0,3-5 Years,TRUE,9/28/16,02:00 PM - 04:00 PM,1234476,Break Fix,Premise maintenance with customer,Phone broken,30 to 40,0,0
+9/13/16,Frankie,Skerrett,Male,0,Over 5 Years,TRUE,9/30/16,08:00 AM - 10:00 AM,1234477,Break Fix,Premise maintenance with customer,TV box no power,30 to 40,3,0
+9/18/16,Edwin,Holaday,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no led,40 to 50,0,0
+9/15/16,Candyce,Upright,Female,1,1-3 Years,FALSE,9/21/16,08:00 AM - 10:00 AM,1234485,Break Fix,Premise maintenance with customer,TV box no power,30 to 40,1,0
+9/17/16,Leo,Grana,Male,0,3-5 Years,FALSE,10/5/16,10:00 AM - 12:00 PM,1234475,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Trula,Greenfield,Female,0,1-3 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234494,New Install,Premise maintenance with customer,N/A,40 to 50,4,1
+9/16/16,Vernice,Marotta,Female,1,3-5 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234477,New Install,Premise maintenance with customer,N/A,30 to 40,0,1
+9/18/16,Audra,Agar,Female,0,Over 5 Years,TRUE,9/24/16,,1234490,Break Fix,Premise maintenance with customer,TV box no remote,70 to 80,1,0
+9/12/16,Concha,Kuiper,Female,2,0-1 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234475,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,0
+9/17/16,Elvie,Helgren,,1,3-5 Years,TRUE,9/29/16,,1234481,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Fernando,Sedlacek,,0,0-1 Years,TRUE,9/18/16,10:00 AM - 12:00 PM,1234481,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/16/16,Izola,Ramires,Female,0,1-3 Years,TRUE,9/17/16,,1234476,Business SLA,Premise maintenance with customer,N/A,30 to 40,2,0
+9/12/16,Vern,Hoge,Male,1,3-5 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234493,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Josphine,Guertin,Female,1,3-5 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234495,Business SLA,Premise maintenance with customer,N/A,60 to 70,1,0
+9/13/16,Nigel,Forbus,Male,0,1-3 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234498,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,4,0
+9/15/16,Nguyet,Seamon,Female,0,1-3 Years,TRUE,9/26/16,,1234489,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/13/16,Taylor,Rehbein,Male,0,0-1 Years,FALSE,10/4/16,08:00 AM - 10:00 AM,1234481,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Emilia,Vaillancourt,Female,0,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234482,Break Fix,Premise maintenance with customer,Phone broken,50 to 60,1,0
+9/14/16,Quinn,Wycoff,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234491,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,1,1
+9/15/16,Marty,Siddiqui,Male,0,1-3 Years,TRUE,9/26/16,04:00 PM - 06:00 PM,1234487,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/13/16,Adalberto,Derry,Male,0,1-3 Years,TRUE,10/5/16,02:00 PM - 04:00 PM,1234481,Break Fix,Premise maintenance with customer,Router no power,70 to 80,3,0
+9/16/16,Travis,Bosco,,0,1-3 Years,TRUE,10/1/16,08:00 AM - 10:00 AM,1234493,Disconnect,Premise maintenance with customer,N/A,50 to 60,4,0
+9/16/16,Adam,Trawick,Male,0,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234494,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/15/16,Kellie,Forester,Female,0,3-5 Years,FALSE,9/26/16,04:00 PM - 06:00 PM,1234494,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,2,0
+9/13/16,Silas,Vanslyke,Male,0,3-5 Years,FALSE,9/28/16,02:00 PM - 04:00 PM,1234475,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,1
+9/16/16,Jaquelyn,Fimbres,Female,0,0-1 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234476,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Floria,Devine,Female,0,3-5 Years,FALSE,9/17/16,,1234487,Break Fix,Premise maintenance with customer,Router no wire,70 to 80,0,0
+9/14/16,Nadia,Childs,Female,1,0-1 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234484,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,2,1
+9/14/16,Andre,Tilton,Male,0,1-3 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234482,New Install,Premise maintenance with customer,N/A,40 to 50,1,1
+9/15/16,Mckinley,Risher,Male,1,1-3 Years,FALSE,9/19/16,12:00 PM - 02:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no power,60 to 70,0,0
+9/16/16,Jesus,Robinson,,0,3-5 Years,TRUE,9/19/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Ebony,Roscoe,,1,3-5 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234494,Planned Maintenance,Premise maintenance with customer,N/A,60 to 70,1,1
+9/14/16,Evelina,Bonham,,0,1-3 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234491,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/12/16,Latosha,Ricker,,0,3-5 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234495,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,1,0
+9/18/16,Elnora,Rabb,Female,0,1-3 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234491,Break Fix,Premise maintenance with customer,TV box no led,60 to 70,3,1
+9/12/16,Ladawn,Tapia,,1,1-3 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234486,New Install,Premise maintenance with customer,N/A,20 to 30,0,0
+9/17/16,Stefani,Maynard,Female,0,3-5 Years,FALSE,9/29/16,,1234491,Disconnect,Premise maintenance with customer,N/A,40 to 50,3,1
+9/14/16,Lore,Pettway,Female,0,0-1 Years,TRUE,9/23/16,12:00 PM - 02:00 PM,1234476,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Brant,Apgar,Male,1,0-1 Years,TRUE,9/22/16,04:00 PM - 06:00 PM,1234492,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,4,0
+9/15/16,Harold,Mckillip,Male,0,0-1 Years,FALSE,9/27/16,,1234491,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/17/16,Jayson,Calvert,Male,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/14/16,Carroll,Cowherd,,0,1-3 Years,FALSE,9/18/16,08:00 AM - 10:00 AM,1234494,Disconnect,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Marisha,Collie,Female,1,0-1 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234475,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/15/16,Albert,Scudder,Male,0,1-3 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,2,1
+9/14/16,Irwin,Edmundson,Male,0,1-3 Years,FALSE,9/18/16,02:00 PM - 04:00 PM,1234476,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,2,0
+9/12/16,Rozanne,Witcher,Female,2,1-3 Years,FALSE,9/27/16,,1234475,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/14/16,Leighann,Bassler,Female,1,1-3 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234479,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/18/16,Cory,Dipaolo,,0,0-1 Years,FALSE,10/5/16,,1234478,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,4,1
+9/12/16,Dorian,Musso,Male,0,1-3 Years,FALSE,9/28/16,,1234476,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/16/16,Harold,Briles,Male,3+,Over 5 Years,FALSE,9/29/16,,1234496,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,1
+9/14/16,Rudolf,Bice,Male,0,3-5 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234497,New Install,Premise maintenance with customer,N/A,60 to 70,3,0
+9/12/16,Philip,Rogers,Male,0,3-5 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234476,Break Fix,Premise maintenance with customer,TV box no remote,40 to 50,1,0
+9/17/16,Vennie,Barry,Female,1,1-3 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234483,Break Fix,Premise maintenance with customer,Phone broken,30 to 40,1,0
+9/18/16,Colton,Usry,Male,3+,Over 5 Years,FALSE,10/5/16,,1234497,New Install,Premise maintenance with customer,N/A,40 to 50,0,1
+9/14/16,Kenisha,Zalewski,Female,0,3-5 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234499,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/12/16,Wilfredo,Loggins,Male,0,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234492,Break Fix,Premise maintenance with customer,TV box no power,70 to 80,2,1
+9/12/16,Ann,Resnick,Female,0,3-5 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234479,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/17/16,Virgina,Mckeen,Female,0,1-3 Years,FALSE,9/17/16,10:00 AM - 12:00 PM,1234483,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/13/16,Byron,Norrell,Male,1,1-3 Years,FALSE,9/22/16,08:00 AM - 10:00 AM,1234491,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/15/16,Jerold,Harmer,Male,0,0-1 Years,FALSE,9/21/16,,1234483,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/12/16,Moon,Cail,Female,0,1-3 Years,FALSE,9/14/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/12/16,Eliana,Matley,,0,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,3,0
+9/13/16,Dortha,Ingham,Female,0,0-1 Years,TRUE,10/1/16,10:00 AM - 12:00 PM,1234493,Planned Maintenance,Premise maintenance with customer,N/A,60 to 70,1,0
+9/13/16,Dane,Cree,Male,0,1-3 Years,FALSE,9/20/16,,1234477,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Isiah,Shroyer,,0,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/16/16,Franklin,Oslund,Male,0,0-1 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234495,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Dong,Cazarez,,0,1-3 Years,FALSE,9/20/16,12:00 PM - 02:00 PM,1234496,Break Fix,Premise maintenance with customer,Phone broken,60 to 70,2,0
+9/13/16,Donetta,Allmond,Female,0,0-1 Years,FALSE,9/26/16,08:00 AM - 10:00 AM,1234492,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,2,0
+9/14/16,Hana,Kwiatkowski,Female,1,1-3 Years,FALSE,10/4/16,12:00 PM - 02:00 PM,1234487,New Install,Premise maintenance with customer,N/A,10 to 20,1,0
+9/17/16,Joann,Spiegel,Female,1,3-5 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,1,0
+9/13/16,Michal,Chancy,Male,1,1-3 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,50 to 60,4,1
+9/18/16,Bill,Sinkler,Male,0,1-3 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,40 to 50,0,0
+9/15/16,Santos,Koelling,Male,2,1-3 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234481,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,4,1
+9/17/16,Abby,Barringer,Female,0,Over 5 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234487,Disconnect,Premise maintenance with customer,N/A,20 to 30,3,0
+9/14/16,Page,Gwaltney,,0,0-1 Years,FALSE,9/22/16,04:00 PM - 06:00 PM,1234499,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/14/16,Randi,Kornfeld,,0,0-1 Years,FALSE,9/26/16,,1234484,New Install,Premise maintenance with customer,N/A,20 to 30,0,0
+9/12/16,Bryon,Zaragosa,,0,1-3 Years,FALSE,9/23/16,02:00 PM - 04:00 PM,1234491,Disconnect,Premise maintenance with customer,N/A,20 to 30,4,1
+9/15/16,Alan,Yeager,Male,0,0-1 Years,FALSE,9/20/16,,1234481,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,2,0
+9/17/16,Teofila,Reinhardt,Female,1,3-5 Years,FALSE,10/4/16,,1234496,New Install,Premise maintenance with customer,N/A,70 to 80,3,0
+9/14/16,Lecia,Gin,Female,0,0-1 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234484,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/16/16,Ailene,Mclin,Female,0,1-3 Years,FALSE,9/28/16,,1234478,Break Fix,Premise maintenance with customer,Router no led,60 to 70,2,0
+9/17/16,Estela,Saia,Female,0,1-3 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234492,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,0,1
+9/13/16,Mirna,Tibbetts,Female,0,3-5 Years,FALSE,9/22/16,08:00 AM - 10:00 AM,1234484,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/17/16,Ashlea,Ekberg,Female,1,0-1 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234498,Break Fix,Premise maintenance with customer,TV box frozen,40 to 50,1,0
+9/13/16,Trey,Feingold,Male,0,0-1 Years,TRUE,9/27/16,,1234498,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,0,0
+9/17/16,Iola,Sadowski,Female,0,3-5 Years,TRUE,9/24/16,08:00 AM - 10:00 AM,1234484,Break Fix,Premise maintenance with customer,Router no power,50 to 60,0,0
+9/16/16,Lucienne,Tabler,Female,0,0-1 Years,FALSE,9/16/16,08:00 AM - 10:00 AM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Aurelio,Upham,,1,0-1 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,1
+9/13/16,Cassaundra,Amerson,Female,0,0-1 Years,TRUE,9/26/16,10:00 AM - 12:00 PM,1234495,Break Fix,Premise maintenance with customer,Router no led,40 to 50,1,0
+9/17/16,Louanne,Helton,Female,1,0-1 Years,FALSE,10/1/16,,1234484,Break Fix,Premise maintenance with customer,Router no led,20 to 30,3,0
+9/12/16,Neal,Ard,Male,1,0-1 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234480,Break Fix,Premise maintenance with customer,Router no led,40 to 50,4,0
+9/14/16,Chan,Trinidad,Female,0,0-1 Years,FALSE,9/25/16,,1234481,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Cliff,Schutte,,0,0-1 Years,TRUE,9/19/16,02:00 PM - 04:00 PM,1234475,Break Fix,Premise maintenance with customer,TV box no remote,60 to 70,0,0
+9/15/16,Verlie,Sweetman,Female,0,3-5 Years,FALSE,9/19/16,,1234495,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Latisha,Ratzlaff,Female,0,1-3 Years,TRUE,10/2/16,08:00 AM - 10:00 AM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,4,0
+9/12/16,Gayle,Acres,Male,0,1-3 Years,FALSE,9/28/16,02:00 PM - 04:00 PM,1234486,Break Fix,Premise maintenance with customer,Router no power,50 to 60,3,1
+9/17/16,Donnie,Snell,Male,0,1-3 Years,FALSE,9/24/16,04:00 PM - 06:00 PM,1234482,Break Fix,Premise maintenance with customer,TV box wrong Time,40 to 50,2,0
+9/17/16,Benny,Bastin,Male,0,0-1 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234481,New Install,Premise maintenance with customer,N/A,10 to 20,0,1
+9/15/16,Erwin,Nieto,Male,0,0-1 Years,FALSE,9/30/16,,1234478,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,0,1
+9/15/16,Anthony,Jacques,Male,0,0-1 Years,FALSE,10/1/16,,1234477,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,4,1
+9/16/16,Amal,Guilford,,0,3-5 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234488,Break Fix,Premise maintenance with customer,TV box frozen,40 to 50,0,0
+9/12/16,Casimira,Nobriga,Female,0,3-5 Years,FALSE,9/13/16,12:00 PM - 02:00 PM,1234475,Planned Maintenance,Premise maintenance with customer,N/A,60 to 70,1,0
+9/13/16,Teri,Dillahunty,,0,0-1 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234492,Break Fix,Premise maintenance with customer,Router no wire,50 to 60,0,1
+9/17/16,Terrell,Strang,Male,0,1-3 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234482,Break Fix,Premise maintenance with customer,Router no led,40 to 50,0,0
+9/12/16,Boyce,Urman,Male,0,1-3 Years,TRUE,9/24/16,,1234486,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/15/16,Georgine,Mckenzie,Female,1,0-1 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234484,Disconnect,Premise maintenance with customer,N/A,40 to 50,3,0
+9/15/16,Ami,Quashie,,1,0-1 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234499,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,1
+9/15/16,Waneta,Behrends,Female,1,1-3 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234482,Break Fix,Premise maintenance with customer,Router no led,20 to 30,1,1
+9/13/16,Vernia,Crooks,Female,2,1-3 Years,FALSE,9/20/16,10:00 AM - 12:00 PM,1234479,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/15/16,Eliz,Dykes,Female,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234498,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,3,0
+9/14/16,Jack,Zullo,Male,0,1-3 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,1
+9/13/16,Alden,Dorrance,Male,1,0-1 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234484,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,2,1
+9/18/16,Shana,Fritz,Female,1,1-3 Years,FALSE,9/20/16,10:00 AM - 12:00 PM,1234485,Break Fix,Premise maintenance with customer,Router no led,60 to 70,2,0
+9/14/16,Shirlee,Heras,Female,0,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234482,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/12/16,Elicia,Schiff,Female,0,0-1 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234486,New Install,Premise maintenance with customer,N/A,60 to 70,3,1
+9/15/16,Rosalva,Edds,Female,0,0-1 Years,TRUE,9/16/16,,1234487,Break Fix,Premise maintenance with customer,Router no led,50 to 60,2,0
+9/12/16,Tony,Mcbay,Male,0,3-5 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234493,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/17/16,Marianela,Spillane,Female,1,1-3 Years,TRUE,9/24/16,08:00 AM - 10:00 AM,1234485,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Jefferson,Nanney,Male,0,1-3 Years,TRUE,9/29/16,12:00 PM - 02:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box frozen,30 to 40,1,0
+9/14/16,Dorathy,Konkol,Female,0,1-3 Years,FALSE,9/27/16,,1234485,Break Fix,Premise maintenance with customer,TV box no led,30 to 40,2,0
+9/17/16,Nina,Schill,Female,0,Over 5 Years,TRUE,9/22/16,,1234494,Break Fix,Premise maintenance with customer,Router no led,40 to 50,1,0
+9/16/16,Olene,Boon,Female,0,1-3 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234477,Business SLA,Premise maintenance with customer,N/A,10 to 20,1,0
+9/17/16,Bridgett,Waiters,Female,1,Over 5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234485,Break Fix,Premise maintenance with customer,TV box smoke,10 to 20,2,1
+9/18/16,Miguel,Lugo,,2,0-1 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234482,New Install,Premise maintenance with customer,N/A,40 to 50,4,1
+9/13/16,Desmond,Gosnell,Male,0,Over 5 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234475,Break Fix,Premise maintenance with customer,TV box broken,40 to 50,3,0
+9/12/16,Alesia,Arrieta,Female,1,1-3 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234489,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Catalina,Dicken,Female,1,3-5 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234477,Business SLA,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Alejandra,Hiers,Female,2,0-1 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234486,Break Fix,Premise maintenance with customer,TV box no remote,50 to 60,4,0
+9/13/16,Barrie,Ainsworth,Female,0,1-3 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234496,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/13/16,Yasmin,Hagstrom,Female,0,3-5 Years,FALSE,9/17/16,08:00 AM - 10:00 AM,1234475,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Corrina,Fanning,Female,1,Over 5 Years,TRUE,10/3/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/17/16,Emogene,Menchaca,Female,0,1-3 Years,FALSE,9/26/16,,1234497,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/15/16,Eulah,Weingartner,Female,1,0-1 Years,FALSE,10/5/16,02:00 PM - 04:00 PM,1234494,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Ligia,Messina,Female,0,0-1 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234494,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/12/16,Fredrick,Norwood,Male,0,3-5 Years,TRUE,10/3/16,02:00 PM - 04:00 PM,1234496,Break Fix,Premise maintenance with customer,TV box no remote,50 to 60,3,0
+9/15/16,Raphael,Schneider,Male,0,1-3 Years,FALSE,9/27/16,,1234479,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/12/16,Elene,Houze,Female,0,3-5 Years,TRUE,9/28/16,,1234485,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Stephan,Suniga,Male,0,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234496,Business SLA,Premise maintenance with customer,N/A,60 to 70,1,0
+9/17/16,Alton,Almada,Male,0,3-5 Years,TRUE,9/28/16,,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,0,1
+9/12/16,Robbi,Lona,Female,0,3-5 Years,FALSE,9/17/16,08:00 AM - 10:00 AM,1234498,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Tennille,Mcinturff,Female,3+,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,60 to 70,3,1
+9/14/16,Lawrence,Maxham,Male,0,0-1 Years,FALSE,9/22/16,12:00 PM - 02:00 PM,1234483,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,0,0
+9/13/16,Vella,Becher,Female,1,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234490,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,3,1
+9/13/16,Marine,Kraft,Female,0,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,50 to 60,4,0
+9/16/16,Bernie,Dutta,Male,0,3-5 Years,TRUE,10/1/16,12:00 PM - 02:00 PM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/12/16,Treva,Stoker,Female,0,0-1 Years,FALSE,9/20/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/16/16,Whitley,Dunton,Female,0,3-5 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234497,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/17/16,Joye,Clerk,Female,2,0-1 Years,TRUE,9/13/16,04:00 PM - 06:00 PM,1234495,Business SLA,,N/A,40 to 50,2,0
+9/13/16,Norbert,Desrochers,Male,0,0-1 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234476,New Install,Premise maintenance with customer,N/A,10 to 20,4,1
+9/12/16,Rudolf,Demott,Male,2,1-3 Years,FALSE,9/30/16,,1234485,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,1
+9/17/16,Everette,Thayer,Male,0,1-3 Years,FALSE,10/3/16,02:00 PM - 04:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/18/16,Natalya,Alaimo,Female,0,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234498,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/17/16,Dorris,Curiel,Female,0,3-5 Years,TRUE,9/27/16,12:00 PM - 02:00 PM,1234492,Break Fix,Premise maintenance with customer,Phone broken,20 to 30,0,0
+9/18/16,Calandra,Heilman,Female,0,3-5 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234498,Break Fix,Premise maintenance with customer,TV box frozen,30 to 40,0,1
+9/12/16,Latia,Littlejohn,Female,1,1-3 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234484,Disconnect,Premise maintenance with customer,N/A,30 to 40,2,0
+9/12/16,Cecil,Peat,Male,0,1-3 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234489,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,4,1
+9/17/16,Ali,Harrop,Male,0,0-1 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234488,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,0
+9/12/16,Wilton,Persons,Male,0,1-3 Years,FALSE,10/2/16,,1234487,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Art,Linde,Male,0,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234489,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/14/16,Elias,Tillis,Male,0,3-5 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234478,Business SLA,Premise maintenance with customer,N/A,40 to 50,1,0
+9/16/16,Wan,Fann,Female,1,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234489,Business SLA,Premise maintenance with customer,N/A,20 to 30,2,1
+9/13/16,Shizue,Steffes,Female,0,0-1 Years,TRUE,10/5/16,,1234488,Business SLA,Premise maintenance with customer,N/A,40 to 50,1,0
+9/12/16,Branden,Thorn,Male,0,1-3 Years,FALSE,9/17/16,04:00 PM - 06:00 PM,1234488,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/15/16,Hal,Giannone,,0,1-3 Years,TRUE,9/29/16,08:00 AM - 10:00 AM,1234482,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/15/16,Connie,Camara,Male,0,0-1 Years,FALSE,9/19/16,12:00 PM - 02:00 PM,1234492,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/18/16,Miguelina,Greb,Female,0,0-1 Years,FALSE,9/24/16,,1234486,Business SLA,Premise maintenance with customer,N/A,70 to 80,1,0
+9/15/16,Rogelio,Martines,Male,0,1-3 Years,FALSE,9/26/16,12:00 PM - 02:00 PM,1234490,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,1
+9/18/16,Ahmed,Milford,,0,3-5 Years,TRUE,9/27/16,02:00 PM - 04:00 PM,1234478,New Install,Premise maintenance with customer,N/A,20 to 30,0,0
+9/17/16,Russel,Shah,Male,0,1-3 Years,TRUE,10/3/16,04:00 PM - 06:00 PM,1234493,Break Fix,Premise maintenance with customer,Phone no power,30 to 40,2,1
+9/16/16,Porsha,Sletten,Female,0,1-3 Years,FALSE,10/4/16,02:00 PM - 04:00 PM,1234481,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,3,1
+9/13/16,Fannie,Tyson,Female,1,1-3 Years,FALSE,9/27/16,08:00 AM - 10:00 AM,1234493,Business SLA,Premise maintenance with customer,N/A,40 to 50,4,1
+9/17/16,Bernard,Sherrill,Male,3+,0-1 Years,FALSE,10/5/16,08:00 AM - 10:00 AM,1234479,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/15/16,Giuseppe,Beier,Male,0,0-1 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234476,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,1,1
+9/17/16,Vonda,Selke,Female,1,3-5 Years,FALSE,9/19/16,,1234497,Break Fix,Premise maintenance with customer,Phone no power,40 to 50,4,0
+9/18/16,Carmel,Lucier,Female,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234497,Break Fix,Premise maintenance with customer,TV box no remote,20 to 30,0,0
+9/14/16,Kina,Bengston,Female,1,1-3 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234493,Break Fix,Premise maintenance with customer,Router no power,60 to 70,2,1
+9/18/16,Frank,Crimmins,Male,0,0-1 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,TV box wrong Time,60 to 70,0,0
+9/18/16,Bud,Oden,,0,Over 5 Years,FALSE,9/20/16,04:00 PM - 06:00 PM,1234477,Break Fix,Premise maintenance with customer,Router no power,20 to 30,2,0
+9/17/16,Cleo,Cid,Male,0,0-1 Years,FALSE,9/22/16,04:00 PM - 06:00 PM,1234479,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/18/16,Malik,Demaio,Male,0,0-1 Years,FALSE,9/15/16,,1234499,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/18/16,Elvia,Gladden,,0,1-3 Years,FALSE,9/15/16,08:00 AM - 10:00 AM,1234497,Break Fix,Premise maintenance with customer,TV box frozen,40 to 50,2,0
+9/14/16,Shin,Goheen,,1,1-3 Years,TRUE,9/28/16,10:00 AM - 12:00 PM,1234477,Business SLA,Premise maintenance with customer,N/A,70 to 80,2,0
+9/17/16,Monet,Devinney,Female,0,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,1
+9/13/16,Madaline,Conwell,Female,0,1-3 Years,TRUE,10/1/16,10:00 AM - 12:00 PM,1234494,New Install,Premise maintenance with customer,N/A,20 to 30,4,1
+9/14/16,Thad,Egbert,Male,0,0-1 Years,TRUE,9/26/16,02:00 PM - 04:00 PM,1234493,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,0,0
+9/13/16,Afton,Baltes,Female,0,1-3 Years,FALSE,9/24/16,10:00 AM - 12:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no led,60 to 70,0,0
+9/13/16,Jeniffer,Lisowski,Female,0,1-3 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234488,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/15/16,Aubrey,Wever,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234475,Disconnect,Premise maintenance with customer,N/A,40 to 50,1,0
+9/18/16,Luann,Selman,Female,2,1-3 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234482,New Install,Premise maintenance with customer,N/A,40 to 50,2,1
+9/12/16,Broderick,Macri,,0,3-5 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234498,Break Fix,Premise maintenance with customer,TV box no power,70 to 80,0,0
+9/15/16,Nickole,August,Female,1,1-3 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,10 to 20,4,1
+9/13/16,Maria,Peugh,Male,1,3-5 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234478,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,1,1
+9/14/16,Isaias,Winston,,0,Over 5 Years,TRUE,9/18/16,12:00 PM - 02:00 PM,1234476,Break Fix,Premise maintenance with customer,TV box no led,50 to 60,2,0
+9/18/16,Cyrus,Shamburger,Male,2,0-1 Years,TRUE,10/5/16,12:00 PM - 02:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,20 to 30,0,1
+9/18/16,Wendy,Zurcher,,0,1-3 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234481,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,2,1
+9/17/16,Austin,Taniguchi,Male,0,0-1 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,1
+9/16/16,Lauren,Earnshaw,Male,1,0-1 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234485,New Install,Premise maintenance with customer,N/A,70 to 80,0,1
+9/13/16,Tenisha,Celaya,Female,0,1-3 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/18/16,Ronald,Hung,Male,1,3-5 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234475,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,2,0
+9/14/16,Carlie,Potts,Female,0,Over 5 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234478,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/16/16,Keli,Clemmer,Female,1,3-5 Years,FALSE,9/17/16,10:00 AM - 12:00 PM,1234487,Break Fix,Premise maintenance with customer,TV box no time,40 to 50,2,0
+9/15/16,Chauncey,Wilkenson,Male,0,1-3 Years,TRUE,9/25/16,08:00 AM - 10:00 AM,1234491,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/14/16,Bella,Ravelo,Female,0,3-5 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234488,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/13/16,Adela,Defeo,Female,2,1-3 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234475,Break Fix,Premise maintenance with customer,TV box no time,70 to 80,3,1
+9/16/16,Melvin,Debnam,,0,0-1 Years,TRUE,9/19/16,12:00 PM - 02:00 PM,1234499,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/17/16,Claude,Lundgren,,0,3-5 Years,FALSE,9/22/16,,1234487,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/18/16,Seth,Styron,,0,3-5 Years,FALSE,9/21/16,04:00 PM - 06:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/15/16,Shani,Teal,,0,1-3 Years,TRUE,9/21/16,12:00 PM - 02:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/14/16,Charlesetta,Duppstadt,Female,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234491,New Install,Premise maintenance with customer,N/A,20 to 30,2,1
+9/13/16,Darrel,Bankston,Male,0,0-1 Years,FALSE,9/27/16,,1234499,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,0,0
+9/14/16,Lorna,Holdman,,0,Over 5 Years,TRUE,10/2/16,,1234485,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/18/16,Ashton,Lomonaco,Female,0,0-1 Years,FALSE,9/29/16,,1234491,Disconnect,Premise maintenance with customer,N/A,30 to 40,2,1
+9/15/16,Kamala,Schaffer,Female,0,1-3 Years,FALSE,9/20/16,02:00 PM - 04:00 PM,1234481,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Morgan,Ryckman,Male,0,1-3 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234498,New Install,Premise maintenance with customer,N/A,30 to 40,2,1
+9/12/16,Nicky,Slone,Male,1,0-1 Years,FALSE,9/30/16,,1234482,Break Fix,Premise maintenance with customer,TV box frozen,40 to 50,2,1
+9/18/16,Sherron,Tuten,Female,0,0-1 Years,FALSE,9/21/16,,1234486,Disconnect,Premise maintenance with customer,N/A,30 to 40,3,0
+9/16/16,Gala,Henley,Female,3+,1-3 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234494,New Install,Premise maintenance with customer,N/A,20 to 30,2,1
+9/14/16,Saul,Bickley,Male,0,0-1 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234480,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,0,0
+9/14/16,Guy,Tapley,Male,1,1-3 Years,TRUE,10/1/16,,1234495,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Dreama,Guider,Female,0,0-1 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234478,Disconnect,Premise maintenance with customer,N/A,50 to 60,3,1
+9/17/16,Lee,Gabrielson,Male,0,1-3 Years,FALSE,9/24/16,,1234488,Planned Maintenance,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Ronda,Deeter,Female,1,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234481,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Maurita,Budniewski,Female,1,0-1 Years,FALSE,9/20/16,12:00 PM - 02:00 PM,1234478,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/15/16,Stanley,Crawford,,2,1-3 Years,TRUE,9/29/16,08:00 AM - 10:00 AM,1234498,Break Fix,Premise maintenance with customer,Phone no power,20 to 30,3,0
+9/16/16,Emory,Crain,Male,0,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234476,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/16/16,Reyes,Sturdevant,,1,Over 5 Years,FALSE,10/1/16,04:00 PM - 06:00 PM,1234485,Business SLA,Premise maintenance with customer,N/A,20 to 30,1,0
+9/12/16,Rob,Pita,Male,0,1-3 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234488,Break Fix,Premise maintenance with customer,Router no led,40 to 50,2,0
+9/14/16,Damion,River,,1,0-1 Years,TRUE,9/26/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,2,1
+9/12/16,Gayla,Cagle,Female,2,0-1 Years,TRUE,10/1/16,10:00 AM - 12:00 PM,1234494,Disconnect,Premise maintenance with customer,N/A,60 to 70,2,0
+9/12/16,Margurite,Cistrunk,Female,0,0-1 Years,TRUE,10/5/16,02:00 PM - 04:00 PM,1234480,Break Fix,Premise maintenance with customer,Router no wire,70 to 80,4,0
+9/12/16,Kym,Mcgaugh,,0,1-3 Years,FALSE,9/23/16,,1234483,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/15/16,Brenton,Hanberry,Male,1,1-3 Years,TRUE,10/2/16,02:00 PM - 04:00 PM,1234496,Break Fix,Premise maintenance with customer,Router no led,20 to 30,3,1
+9/13/16,Theron,Legler,Male,0,0-1 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234495,Break Fix,Premise maintenance with customer,Phone no power,50 to 60,4,0
+9/15/16,Lavonda,Shetley,Female,1,Over 5 Years,FALSE,9/13/16,,1234492,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Alfred,Folger,Male,2,1-3 Years,FALSE,9/19/16,,1234493,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,1,0
+9/16/16,Brendon,Brigmond,Male,1,1-3 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234490,Break Fix,Premise maintenance with customer,TV box broken,60 to 70,1,1
+9/18/16,Twanna,Thrift,Female,0,3-5 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234486,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/16/16,Hugh,Mongeau,,0,1-3 Years,FALSE,9/24/16,10:00 AM - 12:00 PM,1234498,Break Fix,Premise maintenance with customer,Router no led,40 to 50,0,0
+9/13/16,Alessandra,Bayles,,0,3-5 Years,FALSE,9/20/16,12:00 PM - 02:00 PM,1234485,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/18/16,Domenic,Teeter,Male,0,0-1 Years,FALSE,10/4/16,04:00 PM - 06:00 PM,1234487,Business SLA,Premise maintenance with customer,N/A,20 to 30,4,1
+9/13/16,Moises,Simkins,Male,1,3-5 Years,FALSE,10/3/16,,1234476,Break Fix,Premise maintenance with customer,TV box smoke,40 to 50,3,0
+9/12/16,Chance,Candela,Male,0,3-5 Years,TRUE,9/29/16,04:00 PM - 06:00 PM,1234498,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/14/16,Andera,Donadio,Female,1,0-1 Years,TRUE,9/19/16,08:00 AM - 10:00 AM,1234476,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,0
+9/15/16,Merilyn,Stinnett,Female,0,1-3 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234480,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Mitsue,Holdren,Female,2,3-5 Years,FALSE,9/24/16,,1234475,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/12/16,Norah,Clever,Female,0,3-5 Years,FALSE,9/24/16,,1234495,Disconnect,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Oswaldo,Aguayo,Male,0,Over 5 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234476,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,1,0
+9/17/16,Levi,Strawbridge,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/18/16,Ai,Sommerfeld,Female,0,1-3 Years,FALSE,9/30/16,04:00 PM - 06:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box frozen,50 to 60,2,0
+9/14/16,Tam,Neugebauer,Female,0,0-1 Years,TRUE,9/21/16,08:00 AM - 10:00 AM,1234493,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/17/16,Forrest,Styles,,0,3-5 Years,FALSE,10/5/16,,1234495,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/16/16,Alfonso,Gudger,Male,0,0-1 Years,FALSE,9/24/16,12:00 PM - 02:00 PM,1234494,Business SLA,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Taryn,Freedman,Female,0,0-1 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234489,Break Fix,Premise maintenance with customer,TV box no led,50 to 60,1,0
+9/16/16,Sallie,Rollins,Female,1,1-3 Years,FALSE,10/1/16,,1234498,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,1
+9/13/16,Catherin,Pelaez,,1,1-3 Years,FALSE,10/3/16,10:00 AM - 12:00 PM,1234478,Disconnect,Premise maintenance with customer,N/A,30 to 40,3,0
+9/16/16,Gail,Hammonds,,1,3-5 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234475,Break Fix,Premise maintenance with customer,Phone no power,60 to 70,1,0
+9/13/16,Janeth,Hoefer,Female,1,3-5 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234480,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,0,0
+9/12/16,Tyrone,Wei,Male,0,1-3 Years,FALSE,10/6/16,12:00 PM - 02:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,3,0
+9/17/16,Merrill,Capito,Male,0,1-3 Years,FALSE,9/22/16,08:00 AM - 10:00 AM,1234499,Business SLA,Premise maintenance with customer,N/A,40 to 50,1,0
+9/18/16,Zona,Poynter,Female,0,3-5 Years,TRUE,9/21/16,02:00 PM - 04:00 PM,1234475,Break Fix,Premise maintenance with customer,TV box no led,60 to 70,1,0
+9/12/16,Roberto,Towry,Male,1,1-3 Years,FALSE,10/1/16,,1234494,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,1,1
+9/16/16,Buddy,Crofts,Male,0,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234475,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/13/16,Jacqualine,Tingler,Female,0,0-1 Years,FALSE,9/26/16,02:00 PM - 04:00 PM,1234496,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/13/16,Juana,Yanni,Female,0,0-1 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234487,Business SLA,Premise maintenance with customer,N/A,40 to 50,3,0
+9/16/16,Lilla,Antone,Female,0,3-5 Years,FALSE,9/20/16,10:00 AM - 12:00 PM,1234480,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,2,0
+9/12/16,Dante,Shroyer,Male,2,1-3 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/18/16,Earleen,Demartini,Female,0,Over 5 Years,TRUE,9/25/16,02:00 PM - 04:00 PM,1234480,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,0,0
+9/17/16,Myron,Hearn,Male,1,1-3 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234489,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/12/16,Chung,Egbert,Male,0,1-3 Years,TRUE,9/24/16,10:00 AM - 12:00 PM,1234495,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/15/16,Eddie,Friedt,Male,0,Over 5 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234479,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/14/16,Eddie,Prevatte,Male,0,0-1 Years,FALSE,9/24/16,12:00 PM - 02:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no wire,60 to 70,0,0
+9/12/16,Agustin,Rife,Male,0,0-1 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234476,Business SLA,Premise maintenance with customer,N/A,50 to 60,1,0
+9/13/16,Norine,Burroughs,Female,0,1-3 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234497,Break Fix,Premise maintenance with customer,TV box no time,60 to 70,1,0
+9/16/16,Hermila,Tebo,Female,0,1-3 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234497,New Install,Premise maintenance with customer,N/A,30 to 40,3,0
+9/12/16,Jarod,Boring,Male,0,1-3 Years,FALSE,9/21/16,10:00 AM - 12:00 PM,1234499,Break Fix,Premise maintenance with customer,Router no power,50 to 60,0,0
+9/16/16,Jarrod,Hittle,Male,0,3-5 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234496,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,1
+9/18/16,Sonny,Dedman,Male,0,0-1 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234476,New Install,Premise maintenance with customer,N/A,50 to 60,4,0
+9/14/16,Kasandra,Leib,Female,0,1-3 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no led,30 to 40,1,1
+9/14/16,Timothy,Edelen,Male,0,3-5 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234496,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,3,0
+9/18/16,Ray,Najar,Male,0,0-1 Years,FALSE,9/23/16,12:00 PM - 02:00 PM,1234476,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/18/16,Georgianne,Laplant,Female,1,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234493,New Install,Premise maintenance with customer,N/A,40 to 50,4,0
+9/14/16,John,Mabe,Male,0,1-3 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234498,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Korey,Blackstock,Male,0,3-5 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234498,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/12/16,Pattie,Trueman,Female,0,0-1 Years,FALSE,9/24/16,,1234475,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/12/16,Halley,Stolte,Female,0,0-1 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234493,Business SLA,Premise maintenance with customer,N/A,10 to 20,1,1
+9/17/16,Andrew,Ostrem,Male,0,1-3 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234477,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Perry,Boyle,Male,1,0-1 Years,FALSE,9/28/16,,1234484,Break Fix,Premise maintenance with customer,Router no wire,70 to 80,0,0
+9/16/16,Greg,Lepak,Male,0,Over 5 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234483,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/17/16,Soledad,Sweeten,Female,0,0-1 Years,TRUE,9/19/16,,1234492,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,0
+9/12/16,Shelton,Houk,Male,0,3-5 Years,TRUE,9/21/16,,1234478,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,3,0
+9/14/16,Simon,Worden,Male,0,0-1 Years,TRUE,9/26/16,02:00 PM - 04:00 PM,1234496,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Glenn,Deck,Male,0,1-3 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234479,New Install,Premise maintenance with customer,N/A,70 to 80,4,1
+9/13/16,Tonia,Bevilacqua,,1,0-1 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234494,Break Fix,Premise maintenance with customer,Router no power,30 to 40,0,1
+9/16/16,Willian,Mccampbell,Male,0,0-1 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234485,Break Fix,Premise maintenance with customer,Router no led,50 to 60,2,0
+9/17/16,Mathew,Henriques,Male,1,3-5 Years,TRUE,9/21/16,04:00 PM - 06:00 PM,1234480,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,2,0
+9/14/16,Lashaunda,Koopman,Female,0,0-1 Years,FALSE,9/25/16,04:00 PM - 06:00 PM,1234495,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,0,0
+9/17/16,Sheryl,Oconnell,,0,0-1 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234488,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Neomi,Weatherbee,Female,0,Over 5 Years,TRUE,9/21/16,,1234488,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/13/16,Bonnie,Lumsden,Female,0,3-5 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234488,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Delpha,Derringer,Female,0,1-3 Years,TRUE,10/1/16,02:00 PM - 04:00 PM,1234476,New Install,Premise maintenance with customer,N/A,30 to 40,4,0
+9/17/16,Daria,Vine,Female,0,1-3 Years,TRUE,9/29/16,08:00 AM - 10:00 AM,1234487,New Install,Premise maintenance with customer,N/A,20 to 30,4,0
+9/14/16,Ardis,Weatherholt,Female,0,0-1 Years,FALSE,9/24/16,,1234492,Break Fix,Premise maintenance with customer,TV box no power,30 to 40,0,0
+9/17/16,Jacinda,Shover,,0,1-3 Years,TRUE,9/13/16,04:00 PM - 06:00 PM,1234492,Business SLA,Premise maintenance with customer,N/A,40 to 50,3,0
+9/16/16,Delmar,Whitlock,Male,0,0-1 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234486,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Vinnie,Waage,Female,1,0-1 Years,TRUE,9/13/16,12:00 PM - 02:00 PM,1234484,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/15/16,Bernita,Arroyo,Female,1,1-3 Years,TRUE,10/1/16,,1234489,New Install,Premise maintenance with customer,N/A,60 to 70,3,0
+9/13/16,Ellsworth,Donohue,Male,0,3-5 Years,FALSE,9/19/16,,1234477,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/15/16,Brett,Steidl,Male,0,1-3 Years,TRUE,9/20/16,,1234475,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Monty,Concha,Male,2,Over 5 Years,FALSE,9/28/16,02:00 PM - 04:00 PM,1234475,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Manuel,Lukes,Male,1,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234495,New Install,Premise maintenance with customer,N/A,70 to 80,3,1
+9/14/16,Joey,Patel,Male,1,3-5 Years,TRUE,9/27/16,,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/16/16,Vikki,Janney,Female,0,3-5 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234478,Break Fix,Premise maintenance with customer,Router no power,40 to 50,2,1
+9/14/16,Araceli,Wang,,0,0-1 Years,FALSE,9/27/16,02:00 PM - 04:00 PM,1234492,New Install,Premise maintenance with customer,N/A,50 to 60,0,1
+9/16/16,Seth,Jessup,Male,1,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234490,Break Fix,Premise maintenance with customer,Router no power,40 to 50,1,1
+9/15/16,Demarcus,Talbert,,0,0-1 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234475,Business SLA,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Charlette,Taranto,Female,2,0-1 Years,FALSE,9/20/16,02:00 PM - 04:00 PM,1234475,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/15/16,Lauryn,Rees,Female,0,0-1 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234492,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Elroy,Pilla,Male,1,1-3 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234499,Disconnect,Premise maintenance with customer,N/A,20 to 30,3,1
+9/17/16,Mui,Boissonneault,Female,1,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234485,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,1
+9/18/16,Wei,Lucht,Female,0,0-1 Years,FALSE,10/4/16,04:00 PM - 06:00 PM,1234482,New Install,Premise maintenance with customer,N/A,40 to 50,2,1
+9/18/16,Marco,Fischbach,Male,0,Over 5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234493,Break Fix,Premise maintenance with customer,TV box no power,60 to 70,4,1
+9/16/16,Huey,Frahm,Male,0,Over 5 Years,FALSE,9/23/16,,1234480,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Angelita,Blan,Female,0,3-5 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234495,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/12/16,Kareem,Milardo,Male,0,1-3 Years,FALSE,10/3/16,02:00 PM - 04:00 PM,1234488,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,2,1
+9/15/16,Kari,Harm,Female,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234492,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,0,1
+9/17/16,Darnell,Holtzclaw,Male,0,1-3 Years,TRUE,9/22/16,04:00 PM - 06:00 PM,1234478,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/16/16,Nicolette,Vinton,Female,1,3-5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234488,Break Fix,Premise maintenance with customer,TV box no remote,50 to 60,3,0
+9/15/16,Luana,Dark,Female,0,Over 5 Years,TRUE,9/15/16,10:00 AM - 12:00 PM,1234483,Business SLA,Premise maintenance with customer,N/A,60 to 70,2,0
+9/17/16,Arlen,Pfaff,Male,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234492,Break Fix,Premise maintenance with customer,Router no power,40 to 50,4,1
+9/15/16,Cedric,Bivona,Male,0,Over 5 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234482,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,2,1
+9/15/16,Karena,Nay,,0,1-3 Years,FALSE,9/23/16,02:00 PM - 04:00 PM,1234483,Disconnect,Premise maintenance with customer,N/A,30 to 40,1,0
+9/18/16,Nigel,Flowers,Male,1,0-1 Years,FALSE,10/6/16,08:00 AM - 10:00 AM,1234494,Disconnect,Premise maintenance with customer,N/A,70 to 80,1,1
+9/14/16,Ina,Jun,Female,0,1-3 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234499,Break Fix,,TV box no remote,30 to 40,2,0
+9/14/16,Harrison,Clutts,Male,0,1-3 Years,TRUE,9/16/16,,1234486,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/16/16,Darrell,Fick,,0,0-1 Years,FALSE,9/21/16,04:00 PM - 06:00 PM,1234480,Break Fix,Premise maintenance with customer,TV box no time,30 to 40,2,0
+9/15/16,Susannah,Vega,Female,1,0-1 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234483,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/17/16,Enrique,Donlin,Male,0,3-5 Years,FALSE,9/24/16,12:00 PM - 02:00 PM,1234495,Break Fix,Premise maintenance with customer,TV box no power,30 to 40,0,0
+9/18/16,Jamel,Ottman,Male,0,1-3 Years,FALSE,9/30/16,,1234496,Break Fix,Premise maintenance with customer,Router no led,30 to 40,2,1
+9/18/16,Ricky,Brazeal,Male,1,1-3 Years,FALSE,9/26/16,10:00 AM - 12:00 PM,1234489,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/16/16,Corene,Ruppe,Female,1,1-3 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234477,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,1,1
+9/13/16,Zoe,Reisch,Female,0,0-1 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234482,New Install,Premise maintenance with customer,N/A,70 to 80,2,1
+9/18/16,Rosena,Burkett,Female,0,0-1 Years,FALSE,9/30/16,,1234497,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/18/16,Geraldo,Merry,Male,0,0-1 Years,TRUE,9/23/16,,1234488,New Install,Premise maintenance with customer,N/A,40 to 50,2,0
+9/17/16,Mandie,Filiault,Female,0,1-3 Years,FALSE,9/21/16,10:00 AM - 12:00 PM,1234491,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Pauline,Monzon,Female,0,1-3 Years,FALSE,9/21/16,12:00 PM - 02:00 PM,1234489,Break Fix,Premise maintenance with customer,TV box no remote,60 to 70,0,0
+9/14/16,Deeann,Guyette,Female,0,3-5 Years,FALSE,9/25/16,,1234476,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
+9/14/16,Helen,Gullett,Female,2,1-3 Years,FALSE,9/18/16,04:00 PM - 06:00 PM,1234479,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,0,0
+9/16/16,Norris,Bukowski,Male,0,1-3 Years,TRUE,9/30/16,04:00 PM - 06:00 PM,1234491,Business SLA,Premise maintenance with customer,N/A,50 to 60,4,1
+9/13/16,Barbra,Esperanza,Female,1,3-5 Years,FALSE,9/21/16,08:00 AM - 10:00 AM,1234476,Break Fix,Premise maintenance with customer,Router no led,50 to 60,1,0
+9/16/16,Roslyn,Blumstein,Female,0,0-1 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234492,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,1,1
+9/13/16,Maddie,Kingston,,0,1-3 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234490,Break Fix,Premise maintenance with customer,Router no power,30 to 40,3,0
+9/18/16,Sandy,Mcbee,Male,0,3-5 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234483,New Install,Premise maintenance with customer,N/A,30 to 40,4,0
+9/14/16,Chad,Delacruz,Male,0,1-3 Years,FALSE,9/15/16,04:00 PM - 06:00 PM,1234484,Break Fix,,TV box no led,50 to 60,1,0
+9/15/16,Josh,Moroz,Male,0,0-1 Years,FALSE,9/18/16,02:00 PM - 04:00 PM,1234494,Business SLA,Premise maintenance with customer,N/A,60 to 70,1,0
+9/16/16,Lindsay,Kennamer,Male,0,0-1 Years,FALSE,10/4/16,,1234482,New Install,Premise maintenance with customer,N/A,70 to 80,3,1
+9/18/16,Norene,Irving,,1,0-1 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234487,Break Fix,Premise maintenance with customer,Router no power,10 to 20,1,1
+9/14/16,Lionel,Rackers,Male,0,1-3 Years,TRUE,9/22/16,12:00 PM - 02:00 PM,1234486,New Install,Premise maintenance with customer,N/A,30 to 40,3,0
+9/13/16,Shad,Baxendale,Male,0,1-3 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/12/16,Marty,Carnegie,Male,0,Over 5 Years,TRUE,9/27/16,10:00 AM - 12:00 PM,1234478,Break Fix,Premise maintenance with customer,TV box no time,10 to 20,0,0
+9/18/16,Natividad,Eddins,Female,0,0-1 Years,FALSE,9/15/16,,1234494,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/17/16,Petra,Waldrop,Female,2,0-1 Years,TRUE,10/1/16,10:00 AM - 12:00 PM,1234491,Break Fix,Premise maintenance with customer,Phone broken,30 to 40,2,1
+9/14/16,Giselle,Makowski,Female,0,3-5 Years,TRUE,9/22/16,10:00 AM - 12:00 PM,1234499,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Luciano,Garth,Male,2,1-3 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234498,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Maurice,Hettinger,Male,1,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234493,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,1
+9/13/16,Jeneva,Pines,,0,0-1 Years,TRUE,9/19/16,04:00 PM - 06:00 PM,1234480,Break Fix,Premise maintenance with customer,TV box no led,30 to 40,1,0
+9/14/16,Brinda,Delaune,Female,1,1-3 Years,FALSE,9/29/16,08:00 AM - 10:00 AM,1234496,Business SLA,Premise maintenance with customer,N/A,10 to 20,0,1
+9/13/16,Dean,Moy,Male,1,Over 5 Years,FALSE,10/4/16,08:00 AM - 10:00 AM,1234492,Disconnect,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Frederick,Hauser,Male,2,1-3 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234494,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/14/16,Spencer,Ewin,Male,0,1-3 Years,FALSE,9/25/16,,1234480,Break Fix,Premise maintenance with customer,Router no wire,20 to 30,0,0
+9/16/16,Harry,Recio,Male,0,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234483,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/12/16,Kelsey,Devilbiss,Female,0,1-3 Years,TRUE,10/2/16,12:00 PM - 02:00 PM,1234485,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,4,0
+9/17/16,Rozella,Violette,,0,0-1 Years,TRUE,10/1/16,02:00 PM - 04:00 PM,1234492,Disconnect,Premise maintenance with customer,N/A,20 to 30,4,0
+9/17/16,Vito,Ranallo,Male,1,1-3 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234489,Business SLA,Premise maintenance with customer,N/A,30 to 40,2,1
+9/12/16,Selene,Stott,Female,1,0-1 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234478,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/15/16,Elden,Prenatt,Male,1,Over 5 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234485,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,0,0
+9/14/16,Danilo,Beahm,,2,3-5 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234482,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,1,1
+9/13/16,Winfred,Mcnett,Male,0,0-1 Years,FALSE,9/24/16,08:00 AM - 10:00 AM,1234496,Business SLA,Premise maintenance with customer,N/A,40 to 50,1,0
+9/17/16,Vernon,Larkins,Male,1,0-1 Years,FALSE,9/22/16,08:00 AM - 10:00 AM,1234479,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/12/16,Raymon,Morra,Male,2,3-5 Years,TRUE,10/1/16,04:00 PM - 06:00 PM,1234495,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,0,0
+9/14/16,Irmgard,Maass,Female,0,1-3 Years,TRUE,9/22/16,04:00 PM - 06:00 PM,1234496,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/15/16,Florinda,Bonenfant,Female,1,1-3 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234491,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,1
+9/16/16,Collen,Coney,Female,0,0-1 Years,FALSE,10/4/16,10:00 AM - 12:00 PM,1234497,New Install,Premise maintenance with customer,N/A,10 to 20,0,1
+9/13/16,Thaddeus,Pricer,Male,1,0-1 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234498,Break Fix,Premise maintenance with customer,TV box no power,10 to 20,2,1
+9/12/16,Warner,Schilling,Male,1,0-1 Years,FALSE,9/17/16,12:00 PM - 02:00 PM,1234498,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/12/16,Carmen,Frandsen,Male,0,1-3 Years,FALSE,9/19/16,08:00 AM - 10:00 AM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/12/16,Haywood,Bushard,Male,1,1-3 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234491,Break Fix,Premise maintenance with customer,Phone broken,20 to 30,1,1
+9/17/16,Zachary,Tackett,Male,0,1-3 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234494,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/14/16,Tamara,Gaylord,Female,0,0-1 Years,FALSE,9/28/16,02:00 PM - 04:00 PM,1234498,Business SLA,Premise maintenance with customer,N/A,20 to 30,3,1
+9/12/16,Dwain,Carruthers,Male,0,0-1 Years,FALSE,9/22/16,08:00 AM - 10:00 AM,1234477,Disconnect,Premise maintenance with customer,N/A,10 to 20,2,0
+9/18/16,Travis,Eddins,Male,0,1-3 Years,FALSE,9/30/16,10:00 AM - 12:00 PM,1234483,New Install,Premise maintenance with customer,N/A,40 to 50,3,0
+9/12/16,Georgiana,Raker,Female,1,Over 5 Years,FALSE,9/30/16,,1234476,Break Fix,Premise maintenance with customer,Phone no power,70 to 80,0,1
+9/14/16,Milo,Mashburn,Male,0,Over 5 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234481,New Install,Premise maintenance with customer,N/A,60 to 70,0,0
+9/17/16,Renaldo,Briones,Male,0,0-1 Years,TRUE,9/29/16,10:00 AM - 12:00 PM,1234476,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/13/16,Ferdinand,Vanhoy,Male,3+,0-1 Years,FALSE,9/29/16,,1234493,Break Fix,Premise maintenance with customer,Router no led,10 to 20,3,1
+9/16/16,Tessa,Herford,Female,0,0-1 Years,TRUE,9/30/16,08:00 AM - 10:00 AM,1234480,Break Fix,Premise maintenance with customer,TV box no time,70 to 80,4,0
+9/16/16,Carmon,Genthner,Female,1,0-1 Years,FALSE,9/24/16,,1234476,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Audria,Slevin,Female,0,1-3 Years,FALSE,9/19/16,04:00 PM - 06:00 PM,1234497,Disconnect,Premise maintenance with customer,N/A,60 to 70,0,0
+9/13/16,Letty,Mcminn,,0,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234489,Break Fix,Premise maintenance with customer,Router no led,20 to 30,0,0
+9/16/16,Long,Beaudoin,Male,0,0-1 Years,FALSE,9/15/16,04:00 PM - 06:00 PM,1234486,Break Fix,Premise maintenance with customer,TV box no power,70 to 80,2,0
+9/12/16,Rafael,Broe,Male,0,1-3 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no led,30 to 40,4,1
+9/12/16,Rona,Sang,Female,0,3-5 Years,FALSE,9/22/16,12:00 PM - 02:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/14/16,Jude,Kierstead,Male,2,1-3 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234494,New Install,Premise maintenance with customer,N/A,70 to 80,4,1
+9/16/16,Lynell,Holst,Female,0,1-3 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234482,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/13/16,Boyd,Stefano,Male,0,3-5 Years,FALSE,9/27/16,10:00 AM - 12:00 PM,1234490,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,4,1
+9/17/16,Lionel,Virgen,Male,0,1-3 Years,FALSE,9/21/16,04:00 PM - 06:00 PM,1234476,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Lan,Finley,Female,2,1-3 Years,FALSE,10/1/16,,1234475,Break Fix,Premise maintenance with customer,Phone broken,40 to 50,1,0
+9/14/16,Jinny,Trybus,Female,0,0-1 Years,TRUE,9/27/16,08:00 AM - 10:00 AM,1234478,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,4,1
+9/14/16,Freddie,Garner,Male,0,1-3 Years,FALSE,9/25/16,12:00 PM - 02:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,0,0
+9/18/16,Ismael,Pass,Male,1,3-5 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234481,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/14/16,Constance,Stefano,Female,0,3-5 Years,FALSE,9/20/16,04:00 PM - 06:00 PM,1234490,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Roscoe,Earl,Male,0,3-5 Years,TRUE,9/30/16,10:00 AM - 12:00 PM,1234488,New Install,Premise maintenance with customer,N/A,20 to 30,0,1
+9/18/16,Hien,Sliva,Female,0,0-1 Years,TRUE,9/14/16,10:00 AM - 12:00 PM,1234488,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/15/16,Jovita,Robb,Female,0,0-1 Years,FALSE,9/21/16,,1234482,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/13/16,Johnnie,Perera,,0,1-3 Years,FALSE,9/26/16,04:00 PM - 06:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box frozen,20 to 30,2,0
+9/17/16,Anton,Leider,Male,0,0-1 Years,FALSE,9/26/16,08:00 AM - 10:00 AM,1234486,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/12/16,Jimmie,Bornstein,,3+,3-5 Years,FALSE,9/28/16,,1234495,Break Fix,Premise maintenance with customer,Router no led,20 to 30,2,1
+9/14/16,Jacquiline,Blackshear,Female,0,Over 5 Years,TRUE,9/26/16,02:00 PM - 04:00 PM,1234495,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/17/16,Corrie,Behrens,Female,0,0-1 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no led,30 to 40,1,0
+9/16/16,Garrett,Mora,Male,0,3-5 Years,TRUE,9/26/16,02:00 PM - 04:00 PM,1234475,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/15/16,Vito,Laudenslager,Male,0,0-1 Years,TRUE,9/29/16,08:00 AM - 10:00 AM,1234475,New Install,Premise maintenance with customer,N/A,70 to 80,4,0
+9/12/16,Wendie,Primavera,Female,0,1-3 Years,FALSE,9/23/16,08:00 AM - 10:00 AM,1234486,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,0
+9/16/16,Bertha,Croke,Female,0,1-3 Years,FALSE,9/29/16,,1234499,Break Fix,Premise maintenance with customer,TV box broken,40 to 50,4,0
+9/15/16,Tyrell,Wilbourn,Male,0,Over 5 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234485,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/12/16,Ellen,Mcleod,Female,0,Over 5 Years,FALSE,9/25/16,10:00 AM - 12:00 PM,1234489,Break Fix,Premise maintenance with customer,Phone broken,20 to 30,2,0
+9/16/16,Leoma,Lukowski,Female,2,0-1 Years,TRUE,9/19/16,12:00 PM - 02:00 PM,1234497,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/18/16,Danny,Frank,Male,0,1-3 Years,FALSE,9/18/16,12:00 PM - 02:00 PM,1234489,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/18/16,Rutha,Boothby,Female,0,0-1 Years,TRUE,9/19/16,02:00 PM - 04:00 PM,1234486,New Install,Premise maintenance with customer,N/A,20 to 30,1,0
+9/12/16,Elliott,Nolley,Male,0,0-1 Years,FALSE,9/23/16,10:00 AM - 12:00 PM,1234487,Break Fix,Premise maintenance with customer,Phone broken,60 to 70,0,0
+9/18/16,Buster,Valliere,,2,0-1 Years,TRUE,10/6/16,08:00 AM - 10:00 AM,1234477,Disconnect,Premise maintenance with customer,N/A,50 to 60,1,0
+9/17/16,Buddy,Basel,Male,0,Over 5 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234485,Business SLA,Premise maintenance with customer,N/A,40 to 50,1,0
+9/14/16,Tameka,Fill,Female,0,Over 5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234486,New Install,Premise maintenance with customer,N/A,70 to 80,0,1
+9/15/16,Mikel,Shaffer,Male,3+,0-1 Years,FALSE,10/2/16,04:00 PM - 06:00 PM,1234498,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,0,1
+9/18/16,Miguel,Abdullah,Male,0,1-3 Years,FALSE,10/3/16,08:00 AM - 10:00 AM,1234480,Break Fix,Premise maintenance with customer,TV box no time,50 to 60,4,1
+9/17/16,Doyle,Lintner,Male,2,1-3 Years,FALSE,10/2/16,02:00 PM - 04:00 PM,1234483,Break Fix,Premise maintenance with customer,Router no power,20 to 30,0,1
+9/15/16,Vanetta,Marton,Female,0,0-1 Years,FALSE,9/13/16,,1234494,Business SLA,Premise maintenance with customer,N/A,30 to 40,1,0
+9/18/16,Latasha,Enders,Female,1,0-1 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234476,Business SLA,Premise maintenance with customer,N/A,10 to 20,1,1
+9/15/16,Timika,Norrell,Female,0,0-1 Years,FALSE,9/16/16,,1234497,Disconnect,Premise maintenance with customer,N/A,30 to 40,1,0
+9/15/16,Janise,Heisler,,0,0-1 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234490,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,0,1
+9/14/16,Cheree,Sanfilippo,Female,1,0-1 Years,TRUE,9/26/16,04:00 PM - 06:00 PM,1234495,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/13/16,Hector,Briganti,Male,0,3-5 Years,TRUE,9/30/16,02:00 PM - 04:00 PM,1234485,New Install,Premise maintenance with customer,N/A,30 to 40,3,0
+9/14/16,Josiah,Lister,,0,1-3 Years,FALSE,9/28/16,04:00 PM - 06:00 PM,1234483,Disconnect,Premise maintenance with customer,N/A,20 to 30,0,0
+9/14/16,Tom,Rambin,Male,0,1-3 Years,FALSE,10/4/16,04:00 PM - 06:00 PM,1234479,New Install,Premise maintenance with customer,N/A,60 to 70,1,0
+9/14/16,Felicitas,Petrin,Female,0,0-1 Years,TRUE,9/28/16,10:00 AM - 12:00 PM,1234484,New Install,Premise maintenance with customer,N/A,30 to 40,1,0
+9/18/16,Toney,Canas,Male,1,3-5 Years,FALSE,9/19/16,,1234475,Business SLA,Premise maintenance with customer,N/A,40 to 50,3,0
+9/13/16,Claretta,Mccraw,,0,3-5 Years,FALSE,9/18/16,04:00 PM - 06:00 PM,1234482,Disconnect,Premise maintenance with customer,N/A,20 to 30,1,0
+9/13/16,Myrtie,Ware,Female,1,0-1 Years,FALSE,10/2/16,12:00 PM - 02:00 PM,1234481,Disconnect,Premise maintenance with customer,N/A,10 to 20,4,1
+9/13/16,Serita,Villalta,Female,0,3-5 Years,FALSE,9/27/16,12:00 PM - 02:00 PM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,3,1
+9/18/16,Maranda,Kimler,Female,0,3-5 Years,TRUE,9/28/16,04:00 PM - 06:00 PM,1234485,Business SLA,Premise maintenance with customer,N/A,20 to 30,0,0
+9/16/16,Diane,Fairchild,Female,1,0-1 Years,TRUE,9/28/16,02:00 PM - 04:00 PM,1234493,Break Fix,Premise maintenance with customer,Router no power,50 to 60,0,0
+9/15/16,Lyla,Sena,Female,0,0-1 Years,FALSE,9/30/16,08:00 AM - 10:00 AM,1234491,New Install,Premise maintenance with customer,N/A,30 to 40,3,1
+9/16/16,Orval,Chastain,Male,0,3-5 Years,TRUE,9/20/16,08:00 AM - 10:00 AM,1234483,Break Fix,Premise maintenance with customer,Router no led,50 to 60,2,0
+9/17/16,Milly,Whiten,Female,0,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234476,Break Fix,Premise maintenance with customer,TV box no time,30 to 40,0,1
+9/18/16,Leif,Wilmot,Male,2,Over 5 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234483,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/16/16,Sally,Lininger,Female,0,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234499,Business SLA,Premise maintenance with customer,N/A,40 to 50,2,0
+9/15/16,Rosalba,Guertin,Female,1,1-3 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234482,New Install,Premise maintenance with customer,N/A,30 to 40,3,1
+9/17/16,Malka,Toland,,0,1-3 Years,FALSE,9/18/16,,1234477,Business SLA,Premise maintenance with customer,N/A,60 to 70,1,0
+9/16/16,Allen,Tomlinson,,0,Over 5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234478,Break Fix,Premise maintenance with customer,Router no power,50 to 60,4,1
+9/17/16,Cletus,Deines,Male,2,3-5 Years,TRUE,9/26/16,12:00 PM - 02:00 PM,1234490,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,2,0
+9/18/16,Kim,Anders,Male,0,0-1 Years,TRUE,9/20/16,10:00 AM - 12:00 PM,1234496,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/15/16,Fiona,Mcgaughy,Female,0,1-3 Years,FALSE,10/1/16,02:00 PM - 04:00 PM,1234493,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,0,0
+9/16/16,Dalia,Favela,Female,0,0-1 Years,TRUE,10/1/16,08:00 AM - 10:00 AM,1234480,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/18/16,Hong,Cao,Male,2,0-1 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234485,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,1
+9/17/16,Tyson,Telles,Male,3+,Over 5 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234492,Business SLA,Premise maintenance with customer,N/A,60 to 70,1,1
+9/12/16,Titus,Mccauley,Male,0,1-3 Years,FALSE,9/23/16,,1234483,Break Fix,Premise maintenance with customer,Router no led,30 to 40,1,0
+9/13/16,Chuck,Hulings,Male,1,1-3 Years,TRUE,9/28/16,02:00 PM - 04:00 PM,1234477,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/13/16,Josefina,Tindle,Female,1,3-5 Years,FALSE,9/19/16,,1234484,Disconnect,Premise maintenance with customer,N/A,40 to 50,1,0
+9/15/16,Philip,Nell,Male,0,0-1 Years,TRUE,9/28/16,,1234489,Disconnect,Premise maintenance with customer,N/A,70 to 80,0,0
+9/18/16,Kira,Agee,Female,0,1-3 Years,FALSE,9/29/16,,1234490,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,1
+9/16/16,Nigel,Koo,Male,0,0-1 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234486,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/15/16,Marion,Fritsche,,0,Over 5 Years,TRUE,9/21/16,02:00 PM - 04:00 PM,1234493,New Install,Premise maintenance with customer,N/A,50 to 60,3,0
+9/18/16,Conchita,Vanwormer,Female,0,0-1 Years,FALSE,10/4/16,02:00 PM - 04:00 PM,1234492,Break Fix,Premise maintenance with customer,Phone broken,30 to 40,4,1
+9/14/16,Rodney,Grande,Male,1,0-1 Years,TRUE,9/24/16,10:00 AM - 12:00 PM,1234476,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/16/16,Pauline,Muirhead,Female,1,Over 5 Years,FALSE,10/2/16,08:00 AM - 10:00 AM,1234496,Break Fix,Premise maintenance with customer,TV box broken,50 to 60,1,1
+9/14/16,Tish,Rappold,Female,0,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234486,New Install,Premise maintenance with customer,N/A,10 to 20,1,0
+9/18/16,Roosevelt,Somerville,Male,0,0-1 Years,FALSE,9/25/16,08:00 AM - 10:00 AM,1234498,Break Fix,Premise maintenance with customer,TV box broken,70 to 80,2,0
+9/14/16,Freida,Pintor,Female,0,1-3 Years,FALSE,9/22/16,02:00 PM - 04:00 PM,1234480,New Install,Premise maintenance with customer,N/A,70 to 80,2,0
+9/14/16,Irwin,Kong,Male,0,3-5 Years,FALSE,9/29/16,10:00 AM - 12:00 PM,1234478,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,4,0
+9/16/16,Elodia,Fulop,,1,0-1 Years,FALSE,9/20/16,08:00 AM - 10:00 AM,1234488,Break Fix,Premise maintenance with customer,Router no led,20 to 30,1,0
+9/13/16,Jannie,Whiteley,Female,0,1-3 Years,FALSE,9/24/16,02:00 PM - 04:00 PM,1234495,New Install,Premise maintenance with customer,N/A,10 to 20,2,1
+9/16/16,Malcolm,Priestly,Male,0,0-1 Years,FALSE,10/2/16,,1234478,New Install,Premise maintenance with customer,N/A,50 to 60,4,1
+9/17/16,Lia,Goldsmith,Female,1,1-3 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234497,Disconnect,Premise maintenance with customer,N/A,40 to 50,3,1
+9/17/16,Carrol,Navarrete,,3+,0-1 Years,FALSE,10/4/16,08:00 AM - 10:00 AM,1234490,New Install,Premise maintenance with customer,N/A,50 to 60,4,1
+9/15/16,Tommie,Digman,Male,1,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234489,New Install,Premise maintenance with customer,N/A,40 to 50,1,0
+9/15/16,Modesta,Wiltsie,,0,Over 5 Years,TRUE,9/23/16,08:00 AM - 10:00 AM,1234475,New Install,Premise maintenance with customer,N/A,70 to 80,4,0
+9/14/16,Myron,Jock,Male,0,1-3 Years,TRUE,9/21/16,02:00 PM - 04:00 PM,1234498,Disconnect,Premise maintenance with customer,N/A,30 to 40,3,0
+9/12/16,Devin,Souther,Male,0,Over 5 Years,FALSE,9/20/16,12:00 PM - 02:00 PM,1234486,New Install,Premise maintenance with customer,N/A,10 to 20,2,0
+9/14/16,Johnathon,Grahn,Male,0,1-3 Years,FALSE,9/27/16,,1234498,Break Fix,Premise maintenance with customer,Phone broken,70 to 80,1,0
+9/12/16,Donnie,Powley,Male,2,1-3 Years,TRUE,10/4/16,08:00 AM - 10:00 AM,1234482,Disconnect,Premise maintenance with customer,N/A,60 to 70,1,1
+9/12/16,Cynthia,Pavelka,Female,1,3-5 Years,FALSE,9/18/16,08:00 AM - 10:00 AM,1234496,Break Fix,Premise maintenance with customer,Router no wire,50 to 60,1,0
+9/18/16,Georgetta,Holliman,Female,0,0-1 Years,FALSE,9/25/16,,1234485,Break Fix,Premise maintenance with customer,Router no led,40 to 50,1,0
+9/13/16,Estela,Almanza,Female,0,0-1 Years,FALSE,9/29/16,04:00 PM - 06:00 PM,1234499,New Install,Premise maintenance with customer,N/A,70 to 80,1,1
+9/14/16,Carlene,Isler,Female,1,1-3 Years,FALSE,9/29/16,12:00 PM - 02:00 PM,1234489,Planned Maintenance,Premise maintenance with customer,N/A,40 to 50,1,0
+9/13/16,Charlette,Croston,Female,0,Over 5 Years,TRUE,9/27/16,10:00 AM - 12:00 PM,1234478,Break Fix,Premise maintenance with customer,Router no wire,30 to 40,1,1
+9/12/16,Ignacio,Llanas,Male,0,3-5 Years,FALSE,9/28/16,10:00 AM - 12:00 PM,1234488,New Install,Premise maintenance with customer,N/A,70 to 80,0,0
+9/17/16,Harrison,Carlino,Male,0,0-1 Years,FALSE,10/1/16,08:00 AM - 10:00 AM,1234489,Break Fix,Premise maintenance with customer,TV box broken,30 to 40,1,0
+9/18/16,Tressa,Sandidge,Female,3+,0-1 Years,FALSE,10/6/16,,1234486,Break Fix,Premise maintenance with customer,Phone no power,30 to 40,4,1
+9/18/16,Sterling,Prisbrey,Male,0,1-3 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234477,Planned Maintenance,Premise maintenance with customer,N/A,10 to 20,1,0
+9/18/16,Nolan,Friberg,Male,0,1-3 Years,TRUE,10/1/16,02:00 PM - 04:00 PM,1234486,New Install,Premise maintenance with customer,N/A,10 to 20,1,1
+9/17/16,Craig,Ruben,Male,0,3-5 Years,TRUE,9/22/16,08:00 AM - 10:00 AM,1234492,Disconnect,Premise maintenance with customer,N/A,40 to 50,0,0
+9/13/16,Raye,Lamorte,Female,1,0-1 Years,TRUE,10/5/16,02:00 PM - 04:00 PM,1234483,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Gracia,Desper,Female,2,3-5 Years,TRUE,9/25/16,,1234486,Business SLA,Premise maintenance with customer,N/A,40 to 50,0,0
+9/18/16,Harold,Besecker,Male,0,0-1 Years,FALSE,9/17/16,,1234493,New Install,Premise maintenance with customer,N/A,30 to 40,2,0
+9/15/16,Henriette,Beil,Female,0,3-5 Years,TRUE,10/5/16,10:00 AM - 12:00 PM,1234477,Break Fix,Premise maintenance with customer,TV box broken,20 to 30,2,0
+9/13/16,Alethia,Hillary,Female,1,0-1 Years,TRUE,9/24/16,12:00 PM - 02:00 PM,1234488,New Install,Premise maintenance with customer,N/A,30 to 40,2,1
+9/15/16,Jimmie,Luby,Male,1,0-1 Years,FALSE,9/30/16,02:00 PM - 04:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,60 to 70,1,0
+9/18/16,Camille,Morita,Female,0,3-5 Years,FALSE,9/27/16,,1234482,Break Fix,Premise maintenance with customer,TV box no power,40 to 50,0,1
+9/12/16,Chang,Beaudet,Male,0,3-5 Years,FALSE,9/23/16,,1234493,Disconnect,Premise maintenance with customer,N/A,30 to 40,0,0
+9/18/16,Terrance,Auerbach,,0,1-3 Years,TRUE,9/26/16,,1234492,New Install,Premise maintenance with customer,N/A,50 to 60,0,1
+9/17/16,Marvin,Mccasland,Male,1,0-1 Years,TRUE,9/24/16,10:00 AM - 12:00 PM,1234489,Break Fix,Premise maintenance with customer,TV box no power,50 to 60,0,0
+9/17/16,Etha,Arboleda,Female,0,1-3 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234489,New Install,Premise maintenance with customer,N/A,50 to 60,2,0
+9/17/16,Hong,Levingston,Male,0,0-1 Years,FALSE,9/24/16,04:00 PM - 06:00 PM,1234484,Disconnect,Premise maintenance with customer,N/A,50 to 60,0,0
+9/12/16,Ignacia,Dempsey,Female,1,0-1 Years,FALSE,9/24/16,12:00 PM - 02:00 PM,1234493,Business SLA,Premise maintenance with customer,N/A,20 to 30,4,1
+9/15/16,Tim,Londono,Male,0,3-5 Years,FALSE,10/3/16,04:00 PM - 06:00 PM,1234482,Disconnect,Premise maintenance with customer,N/A,40 to 50,4,1
+9/18/16,Hedwig,Mclaren,Female,1,1-3 Years,TRUE,9/25/16,12:00 PM - 02:00 PM,1234497,Break Fix,Premise maintenance with customer,TV box no led,30 to 40,0,0
+9/13/16,Ivory,Engelmann,Male,3+,0-1 Years,FALSE,9/28/16,08:00 AM - 10:00 AM,1234481,Break Fix,Premise maintenance with customer,TV box broken,20 to 30,0,1
+9/16/16,Luana,Politte,Female,0,3-5 Years,TRUE,9/15/16,02:00 PM - 04:00 PM,1234484,Break Fix,Premise maintenance with customer,Router no power,50 to 60,2,0
+9/16/16,Marcelino,Pattison,Male,0,1-3 Years,TRUE,9/13/16,10:00 AM - 12:00 PM,1234479,Disconnect,Premise maintenance with customer,N/A,50 to 60,2,0
+9/16/16,Brian,Eichhorn,Male,0,Over 5 Years,FALSE,9/25/16,02:00 PM - 04:00 PM,1234494,Planned Maintenance,Premise maintenance with customer,N/A,50 to 60,0,0
+9/14/16,Santo,Mckenny,Male,0,3-5 Years,TRUE,9/16/16,08:00 AM - 10:00 AM,1234477,New Install,Premise maintenance with customer,N/A,50 to 60,0,0
+9/15/16,Miles,Benny,Male,0,3-5 Years,TRUE,10/1/16,02:00 PM - 04:00 PM,1234490,New Install,Premise maintenance with customer,N/A,20 to 30,1,0
+9/13/16,Miguel,Jozwiak,,0,0-1 Years,FALSE,9/19/16,04:00 PM - 06:00 PM,1234480,New Install,Premise maintenance with customer,N/A,70 to 80,1,0
+9/13/16,Merlin,Clasen,Male,2,1-3 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234486,Break Fix,Premise maintenance with customer,Router no power,70 to 80,2,1
+9/16/16,Norris,Geller,,0,3-5 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234496,Break Fix,Premise maintenance with customer,Router no power,40 to 50,2,0
+9/17/16,Elwood,Newton,Male,1,1-3 Years,FALSE,9/23/16,04:00 PM - 06:00 PM,1234481,Business SLA,Premise maintenance with customer,N/A,60 to 70,0,0
+9/13/16,Anthony,Mceuen,Male,0,3-5 Years,FALSE,10/1/16,12:00 PM - 02:00 PM,1234477,Planned Maintenance,Premise maintenance with customer,N/A,20 to 30,3,1
+9/16/16,Tereasa,Sisco,Female,0,1-3 Years,TRUE,9/30/16,12:00 PM - 02:00 PM,1234479,Break Fix,Premise maintenance with customer,TV box frozen,70 to 80,0,0
+9/14/16,Vita,Lundblad,Female,0,1-3 Years,FALSE,10/3/16,12:00 PM - 02:00 PM,1234479,Disconnect,Premise maintenance with customer,N/A,40 to 50,3,0
+9/14/16,Linnea,Harber,Female,2,0-1 Years,FALSE,10/2/16,10:00 AM - 12:00 PM,1234486,Break Fix,ResidenceType,TV box no time,40 to 50,3,1
+9/13/16,Les,Fincham,Male,0,0-1 Years,FALSE,9/18/16,10:00 AM - 12:00 PM,1234497,Break Fix,Premise maintenance with customer,Router no led,40 to 50,1,0
+9/13/16,Andre,Marrinan,Male,0,0-1 Years,TRUE,9/20/16,02:00 PM - 04:00 PM,1234493,New Install,Premise maintenance with customer,N/A,50 to 60,1,0
+9/14/16,Rocco,Sibert,Male,0,1-3 Years,FALSE,9/26/16,,1234478,New Install,Premise maintenance with customer,N/A,40 to 50,3,1
+9/17/16,Lucio,Verdejo,Male,0,1-3 Years,FALSE,9/30/16,12:00 PM - 02:00 PM,1234476,New Install,Premise maintenance with customer,N/A,50 to 60,4,0
+9/15/16,Krishna,Tijerina,Female,0,1-3 Years,TRUE,9/30/16,04:00 PM - 06:00 PM,1234487,Break Fix,Premise maintenance with customer,Router no led,10 to 20,1,0
+9/12/16,Russ,Munger,,1,Over 5 Years,FALSE,9/29/16,02:00 PM - 04:00 PM,1234495,Planned Maintenance,Premise maintenance with customer,N/A,30 to 40,4,0
+9/17/16,Serita,Docherty,,1,3-5 Years,TRUE,9/28/16,10:00 AM - 12:00 PM,1234485,New Install,Premise maintenance with customer,N/A,20 to 30,0,0
+9/13/16,Kacey,Montandon,Female,1,0-1 Years,FALSE,10/1/16,10:00 AM - 12:00 PM,1234490,New Install,Premise maintenance with customer,N/A,30 to 40,1,1
+9/14/16,Marina,Kresge,Female,0,1-3 Years,TRUE,9/25/16,10:00 AM - 12:00 PM,1234495,Break Fix,Premise maintenance with customer,Router no led,50 to 60,0,0
+9/13/16,Leslie,Brubaker,Male,0,3-5 Years,FALSE,9/19/16,02:00 PM - 04:00 PM,1234484,New Install,Premise maintenance with customer,N/A,10 to 20,1,0
+9/12/16,Valentin,Ortez,Male,2,3-5 Years,FALSE,9/28/16,12:00 PM - 02:00 PM,1234483,Break Fix,Premise maintenance with customer,TV box broken,40 to 50,0,0
+9/16/16,Kamilah,Segarra,Female,2,3-5 Years,FALSE,9/27/16,04:00 PM - 06:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,50 to 60,1,1
+9/18/16,Ryann,Wassink,Female,0,0-1 Years,TRUE,9/29/16,12:00 PM - 02:00 PM,1234479,New Install,Premise maintenance with customer,N/A,60 to 70,2,0
+9/18/16,Marni,Rieser,Female,0,0-1 Years,FALSE,9/21/16,12:00 PM - 02:00 PM,1234484,Business SLA,Premise maintenance with customer,N/A,70 to 80,0,0
+9/12/16,Mistie,Fleig,Female,0,0-1 Years,FALSE,9/27/16,,1234495,New Install,Premise maintenance with customer,N/A,40 to 50,0,0
